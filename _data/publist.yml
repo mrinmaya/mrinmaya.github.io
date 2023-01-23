@@ -7,15 +7,6 @@
     display: arxiv:2210.12023 (also at MATHAI Workshop at NeurIPS 22)
   highlight: 1
 
-- title: "LongtoNotes: OntoNotes with Longer Coreference Chains"
-  image: longtonotes.png
-  description: We reconstruct a long document coreference corpus out of Ontonotes, arriving at a more challenging coreference task and dataset.
-  authors: Kumar Shridhar, Nicholas Monath, Raghuveer Thirukovalluru, Alessandro Stolfo, Manzil Zaheer, Andrew McCallum and Mrinmaya Sachan
-  link:
-    url: https://arxiv.org/abs/2210.03650
-    display: arxiv:2210.03650
-  highlight: 1
-
 - title: "Investigating the Role of Centering Theory in the Context of Neural Coreference Resolution Systems"
   image: ct.png
   description: We investigate the connection between Centering theory (a classical theory in discourse) and modern coreference resolution systems.
@@ -33,6 +24,15 @@
     url: https://arxiv.org/abs/2210.14667
     display: arxiv:2210.14667
   highlight: 0
+
+- title: "LongtoNotes: OntoNotes with Longer Coreference Chains"
+  image: longtonotes.png
+  description: We reconstruct a long document coreference corpus out of Ontonotes, arriving at a more challenging coreference task and dataset.
+  authors: Kumar Shridhar, Nicholas Monath, Raghuveer Thirukovalluru, Alessandro Stolfo, Manzil Zaheer, Andrew McCallum and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/abs/2210.03650
+    display: EACL 2023 (Findings)
+  highlight: 1
 
 - title: "Automatic Generation of Socratic Subquestions for Teaching Math Word Problems"
   image: socratic.png
