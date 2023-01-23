@@ -37,6 +37,15 @@
     display: Code
   highlight: 1
 
+- title: "Poor Man's Quality Estimation: Predicting Reference-Based MT Metrics Without the Reference"
+  image: me.png
+  description: We propose the task of metric estimation for machine translation, as a parallel to quality estimation and attempt to solve it.
+  authors: Vilém Zouhar, Shehzaad Dhuliawala, Wangchunshu Zhou, Nico Daheim, Tom Kocmi, Yuchen Eleanor Jiang and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/abs/2210.03650
+    display: EACL 2023
+  highlight: 0
+
 - title: "LongtoNotes: OntoNotes with Longer Coreference Chains"
   image: longtonotes.png
   description: We reconstruct a long document coreference corpus out of Ontonotes, arriving at a more challenging coreference task and dataset.
