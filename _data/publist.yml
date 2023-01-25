@@ -30,7 +30,7 @@
   description: We analyze the potential of neural models on dialog tutoring datasets for language learning using a suite of automatic and human evaluations.
   authors: Jakub Macina, Nico Daheim, Lingzhi Wang, Tanmay Sinha, Manu Kapur, Iryna Gurevych and Mrinmaya Sachan
   link:
-    url: https://arxiv.org/abs/2211.12835
+    url: https://arxiv.org/abs/2301.09919
     display: EACL 2023
   codelink:
     url: https://github.com/eth-nlped/dialog-tutoring
