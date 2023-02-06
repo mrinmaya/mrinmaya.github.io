@@ -142,3 +142,10 @@
   hobbies: Reading, travelling, board games, learning languages
   number_educ: 1
   education1: BS Lviv Polytechnic National University
+
+- name: Oleh Kuzyk
+  photo: ethan.jpeg
+  info: Postdoc
+  number_educ: 2
+  education1: BS Stanford University
+  education2: PhD Harvard University
