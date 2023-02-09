@@ -7,7 +7,7 @@ permalink: /teaching_csnlp23
 ---
 
 # Computational Semantics for Natural Language Processing
-### <font color=gray>ETH Zürich, Spring Semester 2022</font>: [Course catalog](http://www.vvz.ethz.ch/lerneinheitPre.do?semkez=2022S&lerneinheitId=158716&lang=en)
+### <font color=gray>ETH Zürich, Spring Semester 2023</font>: [Course catalog](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168543&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en)
 
 ___
 
@@ -32,7 +32,7 @@ However, the following textbooks would be useful:
 2. [Speech and Language Processing by Jurafsky and Martin](https://web.stanford.edu/~jurafsky/slp3/)
 
 ## News
-**18.02**    Class website is online!
+**09.02**    Class website is online!
 
 ___
 
@@ -84,6 +84,7 @@ You can ask questions on [moodle](https://moodle-app2.let.ethz.ch/). Please post
 
 |:--|:--|
 |Lecturer| [Mrinmaya Sachan](http://www.mrinmaya.io/)|
-|Teaching Assistants| [Alessandro Stolfo](https://ml.inf.ethz.ch/people/person-detail.MjUyNzIz.TGlzdC8xODA3LC0xNzg2MjE4NDI4.html),&nbsp; [Shehzaad Dhuliawala](https://people.cs.umass.edu/~sdhuliawala/),&nbsp; [Yifan Hou](https://yifan-h.github.io/),&nbsp; [Tianyu Liu](https://rycolab.io/authors/tianyu/)|
+|Teaching Assistants| [Alessandro Stolfo](https://ml.inf.ethz.ch/people/person-detail.MjUyNzIz.TGlzdC8xODA3LC0xNzg2MjE4NDI4.html),&nbsp; [Shehzaad Dhuliawala](https://people.cs.umass.edu/~sdhuliawala/),&nbsp; [Yifan Hou](https://yifan-h.github.io/),&nbsp; [Tianyu Liu](https://rycolab.io/authors/tianyu/),&nbsp; [Jiaoda Li](https://rycolab.io/authors/jiaoda/),&nbsp; [Ethan Wilcox](https://wilcoxeg.github.io/),&nbsp; [Alex Warstadt](https://alexwarstadt.com/),&nbsp; [Sankalan Pal Chowdhury](https://www.mrinmaya.io/team/#:~:text=Sankalan%20Pal%20Chowdhury)|
+
 
 ___
