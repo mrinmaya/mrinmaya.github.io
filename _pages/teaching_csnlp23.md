@@ -48,7 +48,7 @@ ___
 |&nbsp;4| &nbsp;17.03&nbsp; |<b>From words to sentences...</b> <br><br> Recurrent Neural Networks for Language <br><br> Case Study: Language Modelling|1. [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078) |Assignment 1 released|
 |&nbsp;Voluntary|&nbsp;17.03&nbsp;|TBA|TBA||
 |&nbsp;5|&nbsp;24.03&nbsp;| <b>NLU beyond a sentence</b> <br><br> Seq2Seq and Attention <br><br> Case Study: Sentence Similarity, Textual Entailment and Machine Comprehension |1. [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/abs/1703.03906) <br> 2. [Bidirectional Attention Flow for Machine Comprehension](https://arxiv.org/abs/1611.01603) ||
-|&nbsp;Voluntary|nbsp;24.03&nbsp;|TBA|TBA||
+|&nbsp;Voluntary|&nbsp;24.03&nbsp;|TBA|TBA||
 |&nbsp;6|&nbsp;31.03&nbsp;| <b>Syntax and Predicate Argument Structures</b> <br><br> (Semantic Role Labelling, Frame Semantics, etc.)|1. [Stanford’s Graph-based Neural Dependency Parser at the CoNLL 2017 Shared Task](https://www.aclweb.org/anthology/K17-3002.pdf) <br>2. [Grammar as a foreign language](https://papers.nips.cc/paper/2015/file/277281aada22045c03945dcb2ca6f2ec-Paper.pdf)||
 ||&nbsp;31.03&nbsp;|Discussion on Final Projects|1. [Practical Methodology](https://www.deeplearningbook.org/contents/guidelines.html) (<i>Deep Learning</i> book chapter)||
 |&nbsp;<i>Easter</i>|&nbsp;07.04&nbsp;||||
