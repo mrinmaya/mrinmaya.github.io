@@ -151,3 +151,12 @@
   researchinterest: how people process language as they read; how they make inferences about language structure during language learning
   education1: BS Stanford University
   education2: PhD Harvard University
+
+- name: Carl Allen
+  photo: na.jpg
+  info: PostDoctoral Fellow, ETH AI Centre
+  hobbies: Travelling, surfing, hiking, cycling
+  number_educ: 2
+  researchinterest: mathematical understanding of machine learning, representation and latent variable modelling
+  education1: MS Oxford, Edinburgh
+  education2: PhD Edinburgh
