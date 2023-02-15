@@ -25,6 +25,9 @@ The final assessment will be a combination of a group paper presentation (10%), 
 
 **Discussion Sections:**  Fri 16:00-17:00
 
+**Office Hour:** Someday before 31.03 (assignment 1); someday before 28.04 (assignment 2). Please contact professor for appointment.
+
+
 **Textbooks:**
 We will not follow any particular textbook. We will draw material from a number of research papers and classes taught around the world.
 However, the following textbooks would be useful:
