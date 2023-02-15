@@ -39,7 +39,7 @@ ___
 ## Course Schedule
 
 |:--|:--|:--|:--|:--|:--|
-|&nbsp;<b>Lecture</b>|<b>Date</b>|<b>Description</b>|<b>Course Materials</b>| <b>Events</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Exercise Content <br> (TA)|
+|&nbsp;<b>Lecture</b>|<b>Date</b>|<b>Description</b>|<b>Course Materials</b>| <b>Events</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Exercise TA|
 |&nbsp;&nbsp;1|&nbsp;24.02&nbsp;&nbsp;&nbsp;&nbsp;|<b>Introduction</b>|[Diagnostic Quiz](https://polybox.ethz.ch/index.php/s/YCTThVpOd5Cu2AO) [Answers to quiz](https://polybox.ethz.ch/index.php/s/7VPcHOmIxQD5AcX)|Presentation preference indication|
 |&nbsp;&nbsp;2|&nbsp;03.03&nbsp;|<b>The Distributional Hypothesis and Word Vectors</b>|1. [Glove](https://nlp.stanford.edu/pubs/glove.pdf)||
 |&nbsp;Voluntary |&nbsp;03.03&nbsp;| Matrix Calculus and Backpropagation by TAs|1. [CS231n notes on network architectures](http://cs231n.github.io/neural-networks-1/) <br> 2. [CS231n notes on backprop](http://cs231n.github.io/optimization-2/) <br> 3. [Learning Representations by Backpropagating Errors](http://www.iro.umontreal.ca/) <br> 4. [Derivatives, Backpropagation, and Vectorization](http://cs231n.stanford.edu/handouts/derivatives.pdf) <br> 5. [Yes you should understand backprop](https://medium.com/)||-|
@@ -57,7 +57,7 @@ ___
 |&nbsp;Voluntary|&nbsp;21.04&nbsp;|TBA|TBA||-|
 |&nbsp;8|&nbsp;28.04&nbsp;|<b>Formal Representations of Language Meaning</b>|1.[Compositional semantic parsing on semi-structured tables](https://arxiv.org/abs/1508.00305) <br> 2.[Supertagging With LSTMs](https://aclanthology.org/N16-1027/)||
 |&nbsp;9|&nbsp;05.05&nbsp;|<b>Transformers and Contextual Word Representations</b> (BERT, etc.) <br><br> Guest lecture by Manzil Zaheer (Google)|1. [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062) (Only cover the idea of sparse attention: don’t need to cover turing completeness and the theoretical results)) <br> 2. [BERT rediscovers the classical NLP pipeline](https://arxiv.org/abs/1905.05950)||
-|&nbsp;Voluntary|&nbsp;28.04&nbsp;|TBA|TBA||Kernelformers <br> (Sankalan)|
+|&nbsp;Voluntary|&nbsp;28.04&nbsp;|Kernelformers|TBA||Sankalan|
 |&nbsp;10|&nbsp;12.05&nbsp;|<b>Natural Language Generation</b> <br><br> Case Study: Summarization and Conversation Modelling |1. [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> 2. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) ||
 |&nbsp;Voluntary|&nbsp;12.05&nbsp;|TBA|TBA||-|
 |&nbsp;11|&nbsp;19.05&nbsp;|<b>Modelling and tracking entities:</b> NER, coreference and information extraction (entity and relation extraction)|1. [End-to-end Neural Coreference Resolution](https://arxiv.org/abs/1707.07045) <br> 2. [Improving Coreference Resolution by Learning Entity-Level Distributed Representations](https://aclanthology.org/P16-1061/)|Mid-term report due|
