@@ -58,13 +58,13 @@ ___
 |&nbsp;8|&nbsp;28.04&nbsp;|<b>Formal Representations of Language Meaning</b>|1.[Compositional semantic parsing on semi-structured tables](https://arxiv.org/abs/1508.00305) <br> 2.[Supertagging With LSTMs](https://aclanthology.org/N16-1027/)|Assignment 1 due <br><br> Assignment 2 release|
 |&nbsp;9|&nbsp;05.05&nbsp;|<b>Transformers and Contextual Word Representations</b> (BERT, etc.) <br><br> Guest lecture by Manzil Zaheer (Google)|1. [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062) (Only cover the idea of sparse attention: don’t need to cover turing completeness and the theoretical results)) <br> 2. [BERT rediscovers the classical NLP pipeline](https://arxiv.org/abs/1905.05950)||
 |&nbsp;Voluntary|&nbsp;28.04&nbsp;|TBA|TBA||
-|&nbsp;10|&nbsp;12.05&nbsp;|<b>Question Answering</b>|Voluntary<br>1. [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051) <br> 2. [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300)||
+|&nbsp;10|&nbsp;12.05&nbsp;|<b>Natural Language Generation</b> <br><br> Case Study: Summarization and Conversation Modelling |1. [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> 2. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) ||
 |&nbsp;Voluntary|&nbsp;12.05&nbsp;|TBA|TBA||
-|&nbsp;11|&nbsp;19.05&nbsp;|<b>Natural Language Generation</b> <br><br> Case Study: Summarization and Conversation Modelling |1. [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> 2. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) |Mid-term report due|
+|&nbsp;11|&nbsp;19.05&nbsp;|<b>Modelling and tracking entities:</b> NER, coreference and information extraction (entity and relation extraction)|1. [End-to-end Neural Coreference Resolution](https://arxiv.org/abs/1707.07045) <br> 2. [Improving Coreference Resolution by Learning Entity-Level Distributed Representations](https://aclanthology.org/P16-1061/)|Mid-term report due|
 |&nbsp;Voluntary|&nbsp;19.05&nbsp;|TBA|TBA||
-|&nbsp;12|&nbsp;26.05&nbsp;|<b>Modelling and tracking entities:</b> NER, coreference and information extraction (entity and relation extraction)|1. [End-to-end Neural Coreference Resolution](https://arxiv.org/abs/1707.07045) <br> 2. [Improving Coreference Resolution by Learning Entity-Level Distributed Representations](https://aclanthology.org/P16-1061/)||
+|&nbsp;12|&nbsp;26.05&nbsp;|<b>Language + {Knowledge, Vision, Action}</b>|1. [Knowledge Graph Embedding: A Survey of Approaches and Applications](https://persagen.com/files/misc/Wang2017Knowledge.pdf) <br> 2. [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164)||
 |&nbsp;Voluntary|&nbsp;26.05&nbsp;|TBA|TBA||
-|&nbsp;13|&nbsp;02.06&nbsp;|<b>Language + {Knowledge, Vision, Action}</b>|1. [Knowledge Graph Embedding: A Survey of Approaches and Applications](https://persagen.com/files/misc/Wang2017Knowledge.pdf) <br> 2. [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164)||
+|&nbsp;13|&nbsp;02.06&nbsp;|<b>Pragmatics</b>|1. [-](https://persagen.com/files/misc/Wang2017Knowledge.pdf) <br> 2. [-](https://arxiv.org/abs/1909.04164)||
 |&nbsp;Voluntary|&nbsp;02.06&nbsp;|TBA|TBA||
 ||&nbsp;09.06&nbsp;|||Assignment 2 due|
 ||&nbsp;14.07&nbsp;|||Project report due|
@@ -92,7 +92,8 @@ You can ask questions on [moodle](https://moodle-app2.let.ethz.ch/). Please post
 
 |:--|:--|
 |Lecturer| [Mrinmaya Sachan](http://www.mrinmaya.io/)|
-|Teaching Assistants| [Alessandro Stolfo](https://ml.inf.ethz.ch/people/person-detail.MjUyNzIz.TGlzdC8xODA3LC0xNzg2MjE4NDI4.html),&nbsp; [Shehzaad Dhuliawala](https://people.cs.umass.edu/~sdhuliawala/),&nbsp; [Yifan Hou](https://yifan-h.github.io/),&nbsp; [Tianyu Liu](https://rycolab.io/authors/tianyu/),&nbsp; [Jiaoda Li](https://rycolab.io/authors/jiaoda/),&nbsp; [Ethan Wilcox](https://wilcoxeg.github.io/),&nbsp; [Alex Warstadt](https://alexwarstadt.com/),&nbsp; [Sankalan Pal Chowdhury](https://www.mrinmaya.io/team/#:~:text=Sankalan%20Pal%20Chowdhury)|
+|Guest Lecturers|[Manzil Zaheer](https://research.google/people/ManzilZaheer/),&nbsp; [Ethan Wilcox](https://wilcoxeg.github.io/),&nbsp; [Alex Warstadt](https://alexwarstadt.com/)|
+|Teaching Assistants| [Alessandro Stolfo](https://ml.inf.ethz.ch/people/person-detail.MjUyNzIz.TGlzdC8xODA3LC0xNzg2MjE4NDI4.html),&nbsp; [Shehzaad Dhuliawala](https://people.cs.umass.edu/~sdhuliawala/),&nbsp; [Yifan Hou](https://yifan-h.github.io/),&nbsp; [Tianyu Liu](https://rycolab.io/authors/tianyu/),&nbsp; [Jiaoda Li](https://rycolab.io/authors/jiaoda/),&nbsp; [Sankalan Pal Chowdhury](https://www.mrinmaya.io/team/#:~:text=Sankalan%20Pal%20Chowdhury)|
 
 
 ___
