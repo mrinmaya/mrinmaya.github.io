@@ -25,7 +25,7 @@ The final assessment will be a combination of a group paper presentation (10%), 
 
 **Discussion Sections:**  Fri 16:00-17:00
 
-**Office Hour:** Someday before 31.03 (assignment 1); someday before 28.04 (assignment 2). Please contact professor for appointment.
+**Office Hour (assignment, project):** Please contact professor for appointment.
 
 
 **Textbooks:**
