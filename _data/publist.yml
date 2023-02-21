@@ -39,7 +39,7 @@
 
 - title: "Strategize Before Teaching: A Conversational Tutoring System with Pedagogy Self-Distillation"
   image: pedagogydistillation.png
-  description: we jointly predict teaching strategies and generate tutor responses accordingly for dialog tutoring.
+  description: We propose a self-distillation approach to jointly predict teaching strategies and generate tutor responses accordingly for dialog tutoring.
   authors: Lingzhi Wang, Mrinmaya Sachan, Xingshan Zeng and Kam-Fai Wong
   link:
     url: https://arxiv.org/abs/2301.09919
