@@ -61,7 +61,7 @@ ___
 |&nbsp;8|&nbsp;28.04&nbsp;|<b>Formal Representations of Language Meaning</b>|1.[Compositional semantic parsing on semi-structured tables](https://arxiv.org/abs/1508.00305) <br> 2.[Supertagging With LSTMs](https://aclanthology.org/N16-1027/)|Assignment 2 due|
 |&nbsp;Voluntary|&nbsp;28.04&nbsp;|TBA|TBA||-|
 |&nbsp;9|&nbsp;05.05&nbsp;|<b>Transformers and Contextual Word Representations</b> (BERT, etc.) <br><br> Guest lecture by Manzil Zaheer (Google)|1. [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062) (Only cover the idea of sparse attention: don’t need to cover turing completeness and the theoretical results)) <br> 2. [BERT rediscovers the classical NLP pipeline](https://arxiv.org/abs/1905.05950)||
-|&nbsp;Voluntary|&nbsp;05.05&nbsp;|TBA|TBA||Sankalan|
+|&nbsp;Voluntary|&nbsp;05.05&nbsp;|Huggingface and Transformers|<br>1. [Huggingface](https://huggingface.co/)||Sankalan|
 |&nbsp;10|&nbsp;12.05&nbsp;|<b>Question Answering</b>|<br>1. [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051) <br> 2. [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300)||
 |&nbsp;Voluntary|&nbsp;12.05&nbsp;|Discussion on Final Projects (progress)|||All TAs|
 |&nbsp;11|&nbsp;19.05&nbsp;|<b>Natural Language Generation</b> <br><br> Case Study: Summarization and Conversation Modelling |1. [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> 2. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) |Mid-term report due|
