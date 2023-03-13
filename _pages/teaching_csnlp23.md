@@ -66,7 +66,7 @@ ___
 |&nbsp;Voluntary|&nbsp;12.05&nbsp;|Discussion on Final Projects (progress)|||All TAs|
 |&nbsp;11|&nbsp;19.05&nbsp;|<b>Natural Language Generation</b> <br><br> Case Study: Summarization and Conversation Modelling |1. [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> 2. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) ||
 |&nbsp;Voluntary|&nbsp;19.05&nbsp;|TBA|TBA||Jiaoda|
-|&nbsp;12|&nbsp;26.05&nbsp;|<b>Language + {Knowledge, Vision, Action}</b>|1. [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164) <br> 2. [VisualBERT: A Simple and Performant Baseline for Vision and Language](https://arxiv.org/abs/1908.03557)|Mid-term report due|
+|&nbsp;12|&nbsp;26.05&nbsp;|<b>Language + {Knowledge, Vision, Action}</b>|1. [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164) <br> 2. [VisualBERT: A Simple and Performant Baseline for Vision and Language](https://arxiv.org/abs/1908.03557)|Project mid-term report due|
 |&nbsp;Voluntary|&nbsp;26.05&nbsp;|TBA|TBA||Yifan|
 |&nbsp;13|&nbsp;02.06&nbsp;|<b>Pragmatics</b>|1. [Pragmatic Language Interpretation as Probabilistic Inference](http://langcog.stanford.edu/papers_new/goodman-2016-underrev.pdf) <br> 2. [Rational speech act models of pragmatic reasoning in reference games](https://psyarxiv.com/f9y6b/)||
 |&nbsp;Voluntary|&nbsp;02.06&nbsp;|Discussion on Final Projects (all)|||All TAs|
