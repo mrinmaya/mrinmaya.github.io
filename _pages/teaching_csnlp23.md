@@ -54,9 +54,9 @@ ___
 |&nbsp;Voluntary|&nbsp;24.03&nbsp;|Assignment 1 Review (including QA)|||All TAs|
 |&nbsp;6|&nbsp;31.03&nbsp;|<b>Predicate Argument Structures II</b> <br><br> (Semantic Role Labelling, Frame Semantics, etc.)|Voluntary<br>1.[Jointly Predicting Predicates and Arguments in Neural Semantic Role Labeling](https://aclanthology.org/P18-2058.pdf) <br> 2.[Frame-Semantic Parsing](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00163)|Assignment 1 due <br><br> Assignment 2 release|
 |&nbsp;Voluntary|&nbsp;31.03&nbsp;|Discussion on Final Projects (topics)|1. [Practical Methodology](https://www.deeplearningbook.org/contents/guidelines.html) (<i>Deep Learning</i> book chapter)||All TAs|
-|&nbsp;<i>Easter</i>|&nbsp;07.04&nbsp;||||
+|&nbsp;<i>Easter</i>|&nbsp;07.04&nbsp;|||Project proposal due|
 |&nbsp;<i>Easter</i>|&nbsp;14.04&nbsp;||||
-|&nbsp;7|&nbsp;21.04&nbsp;|<b>Modelling and tracking entities:</b> NER, coreference and information extraction (entity and relation extraction)|1. [End-to-end Neural Coreference Resolution](https://arxiv.org/abs/1707.07045) <br> 2. [Improving Coreference Resolution by Learning Entity-Level Distributed Representations](https://aclanthology.org/P16-1061/)|Project proposal due|
+|&nbsp;7|&nbsp;21.04&nbsp;|<b>Modelling and tracking entities:</b> NER, coreference and information extraction (entity and relation extraction)|1. [End-to-end Neural Coreference Resolution](https://arxiv.org/abs/1707.07045) <br> 2. [Improving Coreference Resolution by Learning Entity-Level Distributed Representations](https://aclanthology.org/P16-1061/)||
 |&nbsp;Voluntary|&nbsp;21.04&nbsp;|Assignment 2 Review (including QA)|||All TAs|
 |&nbsp;8|&nbsp;28.04&nbsp;|<b>Formal Representations of Language Meaning</b>|1.[Compositional semantic parsing on semi-structured tables](https://arxiv.org/abs/1508.00305) <br> 2.[Supertagging With LSTMs](https://aclanthology.org/N16-1027/)|Assignment 2 due|
 |&nbsp;Voluntary|&nbsp;28.04&nbsp;|TBA|TBA||-|
