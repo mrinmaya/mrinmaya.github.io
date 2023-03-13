@@ -53,13 +53,13 @@ ___
 |&nbsp;5|&nbsp;24.03&nbsp;| <b>Syntax and Predicate Argument Structures</b> <br><br> (Semantic Role Labelling, Frame Semantics, etc.)|1. [Stanford’s Graph-based Neural Dependency Parser at the CoNLL 2017 Shared Task](https://www.aclweb.org/anthology/K17-3002.pdf) <br>2. [Grammar as a foreign language](https://papers.nips.cc/paper/2015/file/277281aada22045c03945dcb2ca6f2ec-Paper.pdf)|Assignment 1 released|
 |&nbsp;Voluntary|&nbsp;24.03&nbsp;|TBA|TBA||Tianyu|
 |&nbsp;6|&nbsp;31.03&nbsp;|<b>Predicate Argument Structures II</b> <br><br> (Semantic Role Labelling, Frame Semantics, etc.)|Voluntary<br>1.[Jointly Predicting Predicates and Arguments in Neural Semantic Role Labeling](https://aclanthology.org/P18-2058.pdf) <br> 2.[Frame-Semantic Parsing](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00163)||
-|&nbsp;Voluntary|&nbsp;31.03&nbsp;|Discussion on Final Projects (topics)|1. [Practical Methodology](https://www.deeplearningbook.org/contents/guidelines.html) (<i>Deep Learning</i> book chapter)||All TAs|
+|&nbsp;Voluntary|&nbsp;31.03&nbsp;|Discussion on Final Projects (topics)|||All TAs|
 |&nbsp;<i>Easter</i>|&nbsp;07.04&nbsp;|||Project proposal due|
 |&nbsp;<i>Easter</i>|&nbsp;14.04&nbsp;||||
 |&nbsp;7|&nbsp;21.04&nbsp;|<b>Modelling and tracking entities:</b> NER, coreference and information extraction (entity and relation extraction)|1. [End-to-end Neural Coreference Resolution](https://arxiv.org/abs/1707.07045) <br> 2. [Improving Coreference Resolution by Learning Entity-Level Distributed Representations](https://aclanthology.org/P16-1061/)||
 |&nbsp;Voluntary|&nbsp;21.04&nbsp;|Assignment 1 Review (including QA)|||All TAs|
 |&nbsp;8|&nbsp;28.04&nbsp;|<b>Formal Representations of Language Meaning</b>|1.[Compositional semantic parsing on semi-structured tables](https://arxiv.org/abs/1508.00305) <br> 2.[Supertagging With LSTMs](https://aclanthology.org/N16-1027/)|Assignment 1 due|
-|&nbsp;Voluntary |&nbsp;28.04&nbsp;|Assignment 1 Discussion|||All TAs|
+|&nbsp;Voluntary |&nbsp;28.04&nbsp;|Assignment 1 Discussion (QA)|||All TAs|
 |&nbsp;9|&nbsp;05.05&nbsp;|<b>Transformers and Contextual Word Representations</b> (BERT, etc.) <br><br> Guest lecture by Manzil Zaheer (Google)|1. [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062) (Only cover the idea of sparse attention: don’t need to cover turing completeness and the theoretical results)) <br> 2. [BERT rediscovers the classical NLP pipeline](https://arxiv.org/abs/1905.05950)|Assignment 2 release|
 |&nbsp;Voluntary|&nbsp;05.05&nbsp;|Huggingface and Transformers|<br>1. [Huggingface](https://huggingface.co/)||Sankalan|
 |&nbsp;10|&nbsp;12.05&nbsp;|<b>Question Answering</b>|<br>1. [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051) <br> 2. [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300)||
