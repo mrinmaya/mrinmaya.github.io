@@ -69,7 +69,7 @@ ___
 |&nbsp;12|&nbsp;26.05&nbsp;|<b>Language + {Knowledge, Vision, Action}</b>|1. [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164) <br> 2. [VisualBERT: A Simple and Performant Baseline for Vision and Language](https://arxiv.org/abs/1908.03557)|Project mid-term report due|
 |&nbsp;Voluntary|&nbsp;26.05&nbsp;|TBA|TBA||Yifan|
 |&nbsp;13|&nbsp;02.06&nbsp;|<b>Pragmatics</b>|1. [Pragmatic Language Interpretation as Probabilistic Inference](http://langcog.stanford.edu/papers_new/goodman-2016-underrev.pdf) <br> 2. [Rational speech act models of pragmatic reasoning in reference games](https://psyarxiv.com/f9y6b/)||
-|&nbsp;Voluntary|&nbsp;02.06&nbsp;|Discussion on Final Projects (all)|||All TAs|
+|&nbsp;Voluntary|&nbsp;02.06&nbsp;|Assignment 2 Review (including QA)|||All TAs|
 ||&nbsp;09.06&nbsp;|||Assignment 2 due|
 ||&nbsp;14.07&nbsp;|||Project report due|
 ||&nbsp;21.07&nbsp; <br> 2-4pm||[Schedule]()|Poster session ([gather town link]())|
