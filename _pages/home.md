@@ -1,7 +1,7 @@
 ---
-title: "Mrinmaya's Lab - Home"
+title: "ETH NLPED Lab - Home"
 layout: homelay
-excerpt: "Mrinmaya's Lab at ETH Zurich."
+excerpt: "ETH NLPED Lab at ETH Zurich."
 sitemap: false
 permalink: /
 ---
