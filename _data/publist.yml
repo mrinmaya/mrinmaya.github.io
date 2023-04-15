@@ -7,6 +7,25 @@
     display: arxiv:2210.12023 (also at MATHAI Workshop at NeurIPS 22)
   highlight: 1
 
+- title: "Elastic Weight Removal for Faithful and Abstractive Dialogue Generation"
+  image: ewr.png
+  description: We propose a new approach for multigating hallucination or generation of unverifiable information in dialog models
+  authors: Nico Daheim, Nouha Dziri, Mrinmaya Sachan, Iryna Gurevych and Edoardo M Ponti
+  link:
+    url: https://arxiv.org/abs/2303.17574
+    display: arxiv:2303.17574
+  highlight: 1
+
+
+- title: "PWESuite: Phonetic Word Embeddings and Tasks They Facilitate"
+  image: pwe.png
+  description: We develop methods to leverage articulatory features to build phonetically informed word embeddings, and present a set of phonetic word embeddings to encourage their community development, evaluation and use.
+  authors: Vilém Zouhar, Kalvin Chang, Chenxuan Cui, Nathaniel Carlson, Nathaniel Robinson, Mrinmaya Sachan and David Mortensen
+  link:
+    url: https://arxiv.org/abs/2304.02541
+    display: arxiv:2304.02541
+  highlight: 0
+
 - title: "Investigating the Role of Centering Theory in the Context of Neural Coreference Resolution Systems"
   image: ct.png
   description: We investigate the connection between Centering theory (a classical theory in discourse) and modern coreference resolution systems.
@@ -14,7 +33,7 @@
   link:
     url: https://arxiv.org/abs/2210.14678
     display: arxiv:2210.14678
-  highlight: 1
+  highlight: 0
 
 - title: "A Bilingual Parallel Corpus with Discourse Annotations"
   image: bwb.png
