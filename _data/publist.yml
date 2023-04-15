@@ -25,6 +25,15 @@
     display: arxiv:2210.14667
   highlight: 0
 
+- title: "Automatic Educational Question Generation with Difficulty Level Controls"
+  image: eduqg.png
+  description: We automatically generate math word problems of various difficulties that meet the needs of teachers in teaching and testing students in various educational stages.
+  authors: Ying Jiao, Kumar Shridhar, Peng Cui, Wangchunshu Zhou and Mrinmaya Sachan
+  link:
+    url: 
+    display: AIED 2023
+  highlight: 1
+
 - title: "Opportunities and Challenges in Neural Dialog Tutoring"
   image: tutoring.png
   description: We analyze the potential of neural models on dialog tutoring datasets for language learning using a suite of automatic and human evaluations.
