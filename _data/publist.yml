@@ -1,3 +1,12 @@
+- title: "Infusing Lattice Symmetry Priors in Neural Networks Using Soft Attention Masks"
+  image: lattice.png
+  description: We introduce LatFormer, a model that incorporates lattice geometry and topology priors in attention masks for abstract reasoning problems.
+  authors: Mattia Atzeni, Mrinmaya Sachan and Andreas Loukas
+  link:
+    url: https://openreview.net/pdf?id=G7E_K3WaLpK
+    display: OpenReview
+  highlight: 1
+
 - title: "A Causal Framework to Quantify the Robustness of Mathematical Reasoning with Language Models"
   image: causal_robustness.png
   description: We propose a causal framework to quantify the robustness of the reasoning abilities of language models.
