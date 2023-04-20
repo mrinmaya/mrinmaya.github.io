@@ -7,6 +7,15 @@
     display: OpenReview
   highlight: 1
 
+- title: "Enhancing Textbooks with Visuals from the Web for Improved Learning"
+  image: textbooks.png
+  description: We propose a vision-language model based approach to automatically enhance textbooks with images from the web.
+  authors: Janvijay Singh, Vilem Zouhar and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/pdf/2304.08931.pdf
+    display: https://arxiv.org/pdf/2304.08931.pdf
+  highlight: 1
+
 - title: "A Causal Framework to Quantify the Robustness of Mathematical Reasoning with Language Models"
   image: causal_robustness.png
   description: We propose a causal framework to quantify the robustness of the reasoning abilities of language models.
