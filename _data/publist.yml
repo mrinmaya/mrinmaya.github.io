@@ -1,12 +1,3 @@
-- title: "Infusing Lattice Symmetry Priors in Neural Networks Using Soft Attention Masks"
-  image: lattice.png
-  description: We introduce LatFormer, a model that incorporates lattice geometry and topology priors in attention masks for abstract reasoning problems.
-  authors: Mattia Atzeni, Mrinmaya Sachan and Andreas Loukas
-  link:
-    url: https://openreview.net/pdf?id=G7E_K3WaLpK
-    display: OpenReview
-  highlight: 1
-
 - title: "Enhancing Textbooks with Visuals from the Web for Improved Learning"
   image: textbooks.png
   description: We propose a vision-language model based approach to automatically enhance textbooks with images from the web.
@@ -61,6 +52,24 @@
     url: https://arxiv.org/abs/2210.14667
     display: arxiv:2210.14667
   highlight: 0
+
+- title: "Controlled Text Generation with Natural Language Instructions"
+  image: ctrlgen.png
+  description: We present InstructCTG, a controlled text generation framework that incorporates different constraints by conditioning the text generation process on natural language descriptions and demonstrations of the constraints.
+  authors: Wangchunshu Zhou, Yuchen Eleanor Jiang, Ethan Wilcox, Ryan Cotterell and Mrinmaya Sachan
+  link:
+    url: https://openreview.net/pdf?id=DBlKltQIO0
+    display: ICML 2023
+  highlight: 1
+
+- title: "Infusing Lattice Symmetry Priors in Neural Networks Using Soft Attention Masks"
+  image: lattice.png
+  description: We introduce LatFormer, a model that incorporates lattice geometry and topology priors in attention masks for abstract reasoning problems.
+  authors: Mattia Atzeni, Mrinmaya Sachan and Andreas Loukas
+  link:
+    url: https://openreview.net/pdf?id=G7E_K3WaLpK
+    display: ICML 2023
+  highlight: 1
 
 - title: "Automatic Educational Question Generation with Difficulty Level Controls"
   image: eduqg.png
