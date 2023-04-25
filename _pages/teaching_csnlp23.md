@@ -98,7 +98,7 @@ You can ask questions on [moodle](https://moodle-app2.let.ethz.ch/). Please post
 
 |:--|:--|
 |Lecturer| [Mrinmaya Sachan](http://www.mrinmaya.io/)|
-|Guest Lecturers|[Manzil Zaheer](https://research.google/people/ManzilZaheer/),&nbsp; [Ethan Wilcox](https://wilcoxeg.github.io/),&nbsp; [Alex Warstadt](https://alexwarstadt.com/)|
+|Guest Lecturers|[Avinava Dubey]([https://research.google/people/ManzilZaheer/](https://sites.google.com/site/kumaravinavadubey/home)),&nbsp; [Ethan Wilcox](https://wilcoxeg.github.io/),&nbsp; [Alex Warstadt](https://alexwarstadt.com/)|
 |Teaching Assistants| [Alessandro Stolfo](https://ml.inf.ethz.ch/people/person-detail.MjUyNzIz.TGlzdC8xODA3LC0xNzg2MjE4NDI4.html),&nbsp; [Shehzaad Dhuliawala](https://people.cs.umass.edu/~sdhuliawala/),&nbsp; [Yifan Hou](https://yifan-h.github.io/),&nbsp; [Tianyu Liu](https://rycolab.io/authors/tianyu/),&nbsp; [Jiaoda Li](https://rycolab.io/authors/jiaoda/),&nbsp; [Sankalan Pal Chowdhury](https://www.mrinmaya.io/team/#:~:text=Sankalan%20Pal%20Chowdhury)|
 
 
