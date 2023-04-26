@@ -62,7 +62,7 @@
     display: ICML 2023
   highlight: 1
 
-- title: "Bridging the Gap between Neural and Classical Approaches in Abstract Geometric Reasoning with Attention-based Lattice Symmetry Priors"
+- title: "Few-shot Abstract Geometric Reasoning by Infusing Lattice Symmetry Priors in Attention Mechanisms"
   image: lattice.png
   description: We introduce LatFormer, a model that incorporates lattice geometry and topology priors in attention masks for abstract reasoning problems.
   authors: Mattia Atzeni, Mrinmaya Sachan and Andreas Loukas
