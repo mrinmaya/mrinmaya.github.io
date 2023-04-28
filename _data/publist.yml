@@ -58,7 +58,7 @@
   description: We present InstructCTG, a controlled text generation framework that incorporates different constraints by conditioning the text generation process on natural language descriptions and demonstrations of the constraints.
   authors: Wangchunshu Zhou, Yuchen Eleanor Jiang, Ethan Wilcox, Ryan Cotterell and Mrinmaya Sachan
   link:
-    url: https://openreview.net/pdf?id=DBlKltQIO0
+    url: https://arxiv.org/pdf/2304.14293.pdf
     display: ICML 2023
   highlight: 1
 
