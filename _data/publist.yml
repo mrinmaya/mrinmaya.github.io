@@ -43,6 +43,15 @@
     display: ACL 2023 (also at MATHAI Workshop at NeurIPS 22)
   highlight: 1
 
+- title: "Byte-Pair Encoding is Approximately Optimal"
+  image: bwb.png
+  description: We introduce a dataset of Chinese novels translated by experts into English, and an annotated test set to probe the ability of machine translation systems to model various discourse phenomena.
+  authors: Vilém Zouhar, Tim Vieira, Clara Meister, Juan Luis Gastaldi, Mrinmaya Sachan and Ryan Cotterell
+  link:
+    url: https://arxiv.org/abs/2210.14667
+    display: ACL 2023
+  highlight: 0
+
 - title: "When Does Aggregating Multiple Skills with Multi-Task Learning Work? A Case Study in Financial NLP"
   image: bwb.png
   description: We introduce a dataset of Chinese novels translated by experts into English, and an annotated test set to probe the ability of machine translation systems to model various discourse phenomena.
