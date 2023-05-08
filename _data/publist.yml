@@ -81,7 +81,7 @@
 
 - title: "Don't Group, Just Rescore: A Simpler Alternative to Constrained Beam Search"
   image: dbr.png
-  description: We introduce a dataset of Chinese novels translated by experts into English, and an annotated test set to probe the ability of machine translation systems to model various discourse phenomena.
+  description: We present a novel constrained decoding algorithm, dynamic beam rescoring (DBR), which satisfies user-specified constraints with the same runtime of regular beam search, while maintaining similar quality of unconstrained generation.
   authors: Yuchen Eleanor Jiang, Tianyu Liu, Wangchunshu Zhou, Kexun Zhang, Vilém Zouhar, Alex Warstadt, Mrinmaya Sachan and Ryan Cotterell
   link:
     url: https://arxiv.org/abs/2210.14667
