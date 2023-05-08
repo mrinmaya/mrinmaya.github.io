@@ -7,15 +7,6 @@
     display: https://arxiv.org/pdf/2304.08931.pdf
   highlight: 1
 
-- title: "A Causal Framework to Quantify the Robustness of Mathematical Reasoning with Language Models"
-  image: causal_robustness.png
-  description: We propose a causal framework to quantify the robustness of the reasoning abilities of language models.
-  authors: Alessandro Stolfo, Zhijing Jin, Kumar Shridhar, Bernhard Schölkopf and Mrinmaya Sachan
-  link:
-    url: https://arxiv.org/abs/2210.12023
-    display: arxiv:2210.12023 (also at MATHAI Workshop at NeurIPS 22)
-  highlight: 1
-
 - title: "Elastic Weight Removal for Faithful and Abstractive Dialogue Generation"
   image: ewr.png
   description: We propose a new approach for multigating hallucination or generation of unverifiable information in dialog models
@@ -44,13 +35,22 @@
     display: arxiv:2210.14678
   highlight: 0
 
+- title: "A Causal Framework to Quantify the Robustness of Mathematical Reasoning with Language Models"
+  image: causal_robustness.png
+  description: We propose a causal framework to quantify the robustness of the reasoning abilities of language models.
+  authors: Alessandro Stolfo, Zhijing Jin, Kumar Shridhar, Bernhard Schölkopf and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/abs/2210.12023
+    display: ACL 2023 (also at MATHAI Workshop at NeurIPS 22)
+  highlight: 1
+
 - title: "A Bilingual Parallel Corpus with Discourse Annotations"
   image: bwb.png
   description: We introduce a dataset of Chinese novels translated by experts into English, and an annotated test set to probe the ability of machine translation systems to model various discourse phenomena.
   authors: Yuchen Eleanor Jiang, Tianyu Liu, Shuming Ma, Dongdong Zhang, Mrinmaya Sachan and Ryan Cotterell
   link:
     url: https://arxiv.org/abs/2210.14667
-    display: arxiv:2210.14667
+    display: ACL 2023
   highlight: 0
 
 - title: "Controlled Text Generation with Natural Language Instructions"
