@@ -61,6 +61,15 @@
     display: ACL 2023
   highlight: 0
 
+- title: "XDailyDialog: A Multilingual Parallel Dialog Corpus"
+  image: bwb.png
+  description: We introduce a dataset of Chinese novels translated by experts into English, and an annotated test set to probe the ability of machine translation systems to model various discourse phenomena.
+  authors: Zeming Liu, Ping Nie, Jie Cai, Haifeng Wang, Zheng-Yu Niu, Peng Zhang, Mrinmaya Sachan and Kaiping Peng
+  link:
+    url: https://arxiv.org/abs/2210.14667
+    display: ACL 2023
+  highlight: 0
+
 - title: "When Does Aggregating Multiple Skills with Multi-Task Learning Work? A Case Study in Financial NLP"
   image: bwb.png
   description: We introduce a dataset of Chinese novels translated by experts into English, and an annotated test set to probe the ability of machine translation systems to model various discourse phenomena.
