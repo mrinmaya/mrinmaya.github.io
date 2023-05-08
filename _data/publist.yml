@@ -55,9 +55,9 @@
 - title: "Distilling Reasoning Capabilities into Smaller Language Model"
   image: distil.png
   description: We propose a knowledge distillation framework that leverages step-by-step reasoning capabilities of larger models and distills these capabilities into smaller models.
-  authors: Alessandro Stolfo, Zhijing Jin, Kumar Shridhar, Bernhard Schölkopf and Mrinmaya Sachan
+  authors: Kumar Shridhar, Alessandro Stolfo and Mrinmaya Sachan
   link:
-    url: Kumar Shridhar, Alessandro Stolfo and Mrinmaya Sachan
+    url: https://arxiv.org/abs/2212.00193
     display: ACL 2023 (Findings)
   highlight: 1
 
