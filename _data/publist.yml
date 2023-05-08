@@ -72,7 +72,7 @@
 
 - title: "Byte-Pair Encoding is Approximately Optimal"
   image: bpe.png
-  description: We introduce a dataset of Chinese novels translated by experts into English, and an annotated test set to probe the ability of machine translation systems to model various discourse phenomena.
+  description: We formalize BPE as a combinatorial optimization problem and via submodular functions prove that the iterative greedy version is a $(1-\sfrac{1}{e})$-approximation of an optimal merge sequence.
   authors: Vilém Zouhar, Tim Vieira, Clara Meister, Juan Luis Gastaldi, Mrinmaya Sachan and Ryan Cotterell
   link:
     url: https://arxiv.org/abs/2210.14667
