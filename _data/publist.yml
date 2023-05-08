@@ -52,7 +52,7 @@
     display: ACL 2023 (also at MATHAI Workshop at NeurIPS 22)
   highlight: 1
 
-- title: "Distilling Reasoning Capabilities into Smaller Language Model"
+- title: "Distilling Reasoning Capabilities into Smaller Language Models"
   image: distil.png
   description: We propose a knowledge distillation framework that leverages step-by-step reasoning capabilities of larger models and distills these capabilities into smaller models.
   authors: Kumar Shridhar, Alessandro Stolfo and Mrinmaya Sachan
