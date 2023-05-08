@@ -151,7 +151,7 @@
     display: ICML 2023
   highlight: 1
 
-- title: "Automatic Educational Question Generation with Difficulty Level Controls"
+- title: "Educational Question Generation with Difficulty Level Controls"
   image: eduqg.png
   description: We automatically generate math word problems of various difficulties that meet the needs of teachers in teaching and testing students in various educational stages.
   authors: Ying Jiao, Kumar Shridhar, Peng Cui, Wangchunshu Zhou and Mrinmaya Sachan
