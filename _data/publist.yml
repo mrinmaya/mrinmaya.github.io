@@ -34,6 +34,15 @@
     display: arxiv:2210.14678
   highlight: 0
 
+- title: "Adaptive and Personalized Exercise Generation for Online Language Learning Applications"
+  image: edugen.png
+  description: We propose a causal framework to quantify the robustness of the reasoning abilities of language models.
+  authors: Peng Cui and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/abs/2210.12023
+    display: ACL 2023
+  highlight: 1
+
 - title: "A Causal Framework to Quantify the Robustness of Mathematical Reasoning with Language Models"
   image: causal_robustness.png
   description: We propose a causal framework to quantify the robustness of the reasoning abilities of language models.
