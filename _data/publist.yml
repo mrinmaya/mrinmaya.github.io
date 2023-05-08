@@ -88,7 +88,7 @@
     display: ACL 2023
   highlight: 0
 
-- title: "A Bilingual Parallel Corpus with Discourse Annotations"
+- title: "Discourse-Centric Evaluation of Machine Translation with a Densely Annotated Parallel Corpus"
   image: bwb.png
   description: We introduce a dataset of Chinese novels translated by experts into English, and an annotated test set to probe the ability of machine translation systems to model various discourse phenomena.
   authors: Yuchen Eleanor Jiang, Tianyu Liu, Shuming Ma, Dongdong Zhang, Mrinmaya Sachan and Ryan Cotterell
