@@ -115,6 +115,15 @@
     display: ACL 2023
   highlight: 0
 
+- title: "Membership Inference Attacks against Language Models via Neighbourhood Comparison"
+  image: bwb.png
+  description: We introduce a dataset of Chinese novels translated by experts into English, and an annotated test set to probe the ability of machine translation systems to model various discourse phenomena.
+  authors: Justus Mattern, Fatemehsadat Mireshghallah, Zhijing Jin, Bernhard Schoelkopf, Mrinmaya Sachan and Taylor Berg-Kirkpatrick
+  link:
+    url: https://arxiv.org/abs/2210.14667
+    display: ACL 2023 (Findings)
+  highlight: 0
+
 - title: "Controlled Text Generation with Natural Language Instructions"
   image: ctrlgen.png
   description: We present InstructCTG, a controlled text generation framework that incorporates different constraints by conditioning the text generation process on natural language descriptions and demonstrations of the constraints.
