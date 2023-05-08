@@ -36,7 +36,7 @@
 
 - title: "Adaptive and Personalized Exercise Generation for Online Language Learning Applications"
   image: edugen.png
-  description: We propose a causal framework to quantify the robustness of the reasoning abilities of language models.
+  description: We combine a knowledge tracing model that estimates each student's evolving knowledge states from their learning history and a controlled text generation model that generates exercises based on the student's current estimated knowledge state and instructor requirements of desired properties for the next exercise.
   authors: Peng Cui and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2210.12023
@@ -63,7 +63,7 @@
 
 - title: "World Models for Math Story Problems"
   image: mathworld.png
-  description: We introduce a dataset of Chinese novels translated by experts into English, and an annotated test set to probe the ability of machine translation systems to model various discourse phenomena.
+  description: As a step towards developing interpretable language model reasoners, we develop a semantic formalism representing the world depicted in math story problems.
   authors: Andreas Opedal, Niklas Stoehr, Abulhair Saparov and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2210.14667
