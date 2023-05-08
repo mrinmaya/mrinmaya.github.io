@@ -16,7 +16,6 @@
     display: arxiv:2303.17574
   highlight: 1
 
-
 - title: "PWESuite: Phonetic Word Embeddings and Tasks They Facilitate"
   image: pwe.png
   description: We develop methods to leverage articulatory features to build phonetically informed word embeddings, and present a set of phonetic word embeddings to encourage their community development, evaluation and use.
@@ -43,6 +42,15 @@
     url: https://arxiv.org/abs/2210.12023
     display: ACL 2023 (also at MATHAI Workshop at NeurIPS 22)
   highlight: 1
+
+- title: "When Does Aggregating Multiple Skills with Multi-Task Learning Work? A Case Study in Financial NLP"
+  image: bwb.png
+  description: We introduce a dataset of Chinese novels translated by experts into English, and an annotated test set to probe the ability of machine translation systems to model various discourse phenomena.
+  authors: Jingwei Ni, Zhijing Jin, Qian Wang, Mrinmaya Sachan and Markus Leippold
+  link:
+    url: https://arxiv.org/abs/2210.14667
+    display: ACL 2023
+  highlight: 0
 
 - title: "A Bilingual Parallel Corpus with Discourse Annotations"
   image: bwb.png
