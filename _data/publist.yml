@@ -9,7 +9,7 @@
 
 - title: "Elastic Weight Removal for Faithful and Abstractive Dialogue Generation"
   image: ewr.png
-  description: We propose a new approach for multigating hallucination or generation of unverifiable information in dialog models
+  description: We propose a new approach for mitigating hallucination or generation of unverifiable information in dialog models
   authors: Nico Daheim, Nouha Dziri, Mrinmaya Sachan, Iryna Gurevych and Edoardo M Ponti
   link:
     url: https://arxiv.org/abs/2303.17574
