@@ -60,9 +60,9 @@ ___
 |&nbsp;Voluntary|&nbsp;21.04&nbsp;|Assignment 1 Review (including QA)|||All TAs|
 |&nbsp;8|&nbsp;28.04&nbsp;|<b>Formal Representations of Language Meaning</b>|1.[Compositional semantic parsing on semi-structured tables](https://arxiv.org/abs/1508.00305) <br> 2.[Supertagging With LSTMs](https://aclanthology.org/N16-1027/)|Assignment 1 due|
 |&nbsp;Voluntary |&nbsp;28.04&nbsp;|Assignment 1 Discussion (QA)|||All TAs|
-|&nbsp;9|&nbsp;05.05&nbsp;|<b>Transformers and Contextual Word Representations</b> (BERT, etc.) <br><br> Guest lecture by Avinava Dubey (Google)|1. [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062) (Only cover the idea of sparse attention: don’t need to cover turing completeness and the theoretical results)) <br> 2. [BERT rediscovers the classical NLP pipeline](https://arxiv.org/abs/1905.05950)|Assignment 2 release|
+|&nbsp;9|&nbsp;05.05&nbsp;|<b>Transformers and Contextual Word Representations</b> (BERT, etc.) <br><br> Guest lecture by Avinava Dubey (Google)|1. [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062) (Only cover the idea of sparse attention: don’t need to cover turing completeness and the theoretical results)) <br> 2. [BERT rediscovers the classical NLP pipeline](https://arxiv.org/abs/1905.05950)||
 |&nbsp;Voluntary|&nbsp;05.05&nbsp;|Huggingface and Transformers|<br>1. [Huggingface](https://huggingface.co/)||Sankalan|
-|&nbsp;10|&nbsp;12.05&nbsp;|<b>Question Answering</b>|<br>1. [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051) <br> 2. [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300)||
+|&nbsp;10|&nbsp;12.05&nbsp;|<b>Question Answering</b>|<br>1. [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051) <br> 2. [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300)|Assignment 2 release|
 |&nbsp;Voluntary|&nbsp;12.05&nbsp;|Discussion on Final Projects (progress)|||All TAs|
 |&nbsp;11|&nbsp;19.05&nbsp;|<b>Natural Language Generation</b> <br><br> Case Study: Summarization and Conversation Modelling |1. [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> 2. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) ||
 |&nbsp;Voluntary|&nbsp;19.05&nbsp;|TBA|TBA||Jiaoda|
@@ -70,7 +70,7 @@ ___
 |&nbsp;Voluntary|&nbsp;26.05&nbsp;|TBA|TBA||Yifan|
 |&nbsp;13|&nbsp;02.06&nbsp;|<b>Pragmatics</b>|1. [Pragmatic Language Interpretation as Probabilistic Inference](http://langcog.stanford.edu/papers_new/goodman-2016-underrev.pdf) <br> 2. [Rational speech act models of pragmatic reasoning in reference games](https://psyarxiv.com/f9y6b/)||
 |&nbsp;Voluntary|&nbsp;02.06&nbsp;|Assignment 2 Review (including QA)|||All TAs|
-||&nbsp;09.06&nbsp;|||Assignment 2 due|
+||&nbsp;23.06&nbsp;|||Assignment 2 due|
 ||&nbsp;14.07&nbsp;|||Project report due|
 ||&nbsp;21.07&nbsp; <br> 2-4pm||[Schedule]()|Poster session ([gather town link]())|
 
