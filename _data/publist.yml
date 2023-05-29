@@ -34,7 +34,7 @@
     display: arxiv:2210.14678
   highlight: 0
 
-- title: "Adaptive and Personalized Exercise Generation for Online Language Learning Applications"
+- title: "Adaptive and Personalized Exercise Generation for Online Language Learning"
   image: edugen.png
   description: We combine a knowledge tracing model that estimates each student's evolving knowledge states from their learning history and a controlled text generation model that generates exercises based on the student's current estimated knowledge state and instructor requirements of desired properties for the next exercise.
   authors: Peng Cui and Mrinmaya Sachan
