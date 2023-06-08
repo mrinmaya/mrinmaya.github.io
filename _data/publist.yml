@@ -66,7 +66,7 @@
   description: As a step towards developing interpretable language model reasoners, we develop a semantic formalism representing the world depicted in math story problems.
   authors: Andreas Opedal, Niklas Stoehr, Abulhair Saparov and Mrinmaya Sachan
   link:
-    url: https://arxiv.org/abs/2210.14667
+    url: https://arxiv.org/pdf/2306.04347.pdf
     display: ACL 2023 (Findings)
   highlight: 1
 
