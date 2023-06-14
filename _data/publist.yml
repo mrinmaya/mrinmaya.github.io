@@ -1,3 +1,16 @@
+- title: "MATHDIAL: A Dialogue Tutoring Dataset with Rich Pedagogical Properties Grounded in Math Reasoning Problems"
+  image: mathdial.png
+  description: We propose an approach to semi-synthetically generate a pedagogically rich dialog dataset by pairing real teachers with a large language models scaffolded to represent
+common student errors.
+  authors: Jakub Macina, Nico Daheim, Sankalan Pal Chowdhury, Tanmay Sinha, Manu Kapur, Iryna Gurevych and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/abs/2305.14536
+    display: arXiv 2023
+  codelink:
+    url: https://github.com/eth-nlped/mathdial
+    display: Code
+  highlight: 1
+
 - title: "Enhancing Textbooks with Visuals from the Web for Improved Learning"
   image: textbooks.png
   description: We propose a vision-language model based approach to automatically enhance textbooks with images from the web.
