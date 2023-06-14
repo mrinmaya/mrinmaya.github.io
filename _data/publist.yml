@@ -11,6 +11,15 @@ common student errors.
     display: Code
   highlight: 1
 
+- title: "RECURRENTGPT: Interactive Generation of (Arbitrarily) Long Text"
+  image: rgpt.png
+  description: We present RecurrentGPT, a languagebased simulacrum of the recurrence mechanism in RNNs which enables us to use ChatGPT to generate long texts.
+  authors: Wangchunshu Zhou, Yuchen Eleanor Jiang, Peng Cui, Tiannan Wang, Zhenxin Xiao, Yifan Hou, Ryan Cotterell and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/abs/2305.13304
+    display: arXiv 2023
+  highlight: 1
+
 - title: "Enhancing Textbooks with Visuals from the Web for Improved Learning"
   image: textbooks.png
   description: We propose a vision-language model based approach to automatically enhance textbooks with images from the web.
