@@ -11,6 +11,15 @@ common student errors.
     display: Code
   highlight: 1
 
+- title: "Can Large Language Models Infer Causation from Correlation?"
+  image: causecorr.png
+  description: We propose a benchmark dataset to test the pure causal inference skills of large language models (LLMs) and identify a key shortcoming of LLMs in terms of their causal inference skills.
+  authors: Zhijing Jin, Jiarui Liu, Zhiheng Lyu, Spencer Poff, Mrinmaya Sachan, Rada Mihalcea, Mona Diab, Bernhard Schölkopf
+  link:
+    url: https://arxiv.org/abs/2306.05836
+    display: arXiv 2023
+  highlight: 1
+
 - title: "RECURRENTGPT: Interactive Generation of (Arbitrarily) Long Text"
   image: rgpt.png
   description: We present RecurrentGPT, a languagebased simulacrum of the recurrence mechanism in RNNs which enables us to use ChatGPT to generate long texts.
