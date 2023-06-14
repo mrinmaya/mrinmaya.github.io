@@ -29,6 +29,15 @@ common student errors.
     display: arXiv 2023
   highlight: 1
 
+- title: "Beyond Good Intentions: Reporting the Research Landscape of NLP for Social Good"
+  image: nlpsg.png
+  description: We introduce NLP4SGPAPERS, a scientific dataset with three associated tasks that can help identify NLP for social good (NLP4SG) papers and characterize the NLP4SG landscape.
+  authors: Fernando Gonzalez, Zhijing Jin, Bernhard Schölkopf, Tom Hope, Mrinmaya Sachan and Rada Mihalcea 
+  link:
+    url: https://arxiv.org/abs/2202.13758
+    display: EMNLP 2022 (Findings)
+  highlight: 1
+
 - title: "Enhancing Textbooks with Visuals from the Web for Improved Learning"
   image: textbooks.png
   description: We propose a vision-language model based approach to automatically enhance textbooks with images from the web.
