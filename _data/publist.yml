@@ -25,7 +25,7 @@ common student errors.
   description: We propose DYNAICL, a recipe for efficient prompting with black-box generalist models that dynamically allocate in-context examples according to the input complexity and the computational budget.
   authors: Wangchunshu Zhou, Yuchen Eleanor Jiang, Ryan Cotterell and Mrinmaya Sachan
   link:
-    url: https://arxiv.org/abs/2305.13304
+    url: https://arxiv.org/abs/2305.11170
     display: arXiv 2023
   highlight: 1
 
