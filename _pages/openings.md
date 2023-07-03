@@ -22,7 +22,7 @@ Here is some information on ways to apply:
 
 Finally, if you cannot apply to any of the above application deadlines, you can also submit an application through the [department’s admission system](https://www.inf.ethz.ch/phd-application) at any time. In this case, it is okay to send Mrinmaya an email stating your interest with your CV.
 
-We can also host PhD students as a part of the [Ellis PhD program](https://ellis.eu/).
+We can also host PhD students as a part of the [ELLIS PhD program](https://ellis.eu/).
 
 # Bachelor and Master projects
 ### Bachelor/Master projects for ETH Zurich students
