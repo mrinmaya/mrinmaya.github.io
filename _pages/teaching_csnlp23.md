@@ -72,7 +72,7 @@ ___
 |&nbsp;Voluntary|&nbsp;02.06&nbsp;|Assignment 2 Review (including QA)|||All TAs|
 ||&nbsp;23.06&nbsp;|||Assignment 2 due|
 ||&nbsp;14.07&nbsp;|||Project report due|
-||&nbsp;21.07&nbsp; <br> 2-4pm||[Schedule]()|Poster session ([gather town link]())|
+||&nbsp;21.07&nbsp; <br> 2-4pm||[Schedule](https://docs.google.com/spreadsheets/d/1ofIg-3O8BFras93MIkTHVKPYxVYvjyq4nvlTwYxxC4k/edit?usp=sharing)|Poster session ([gather town link](https://app.gather.town/app/kXW69QBLS5oiqKBN/Poster%20Session%20CSNLP23))|
 
 
 
