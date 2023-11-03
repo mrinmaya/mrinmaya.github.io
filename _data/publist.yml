@@ -1,3 +1,12 @@
+- title: "A Diachronic Perspective on User Trust in AI under Uncertainty"
+  image: trust.png
+  description: We shtudy how user trust is developed and how it can be regained after potential trust-eroding events in Human-AI collaboration.
+  authors: Shehzaad Dhuliawala, Vilém Zouhar, Mennatallah El-Assady and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/abs/2310.13544
+    display: EMNLP 2023
+  highlight: 1
+
 - title: "MATHDIAL: A Dialogue Tutoring Dataset with Rich Pedagogical Properties Grounded in Math Reasoning Problems"
   image: mathdial.png
   description: We propose an approach to semi-synthetically generate a pedagogically rich dialog dataset by pairing real teachers with a large language models scaffolded to represent common student errors.
