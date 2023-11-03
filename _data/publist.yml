@@ -16,6 +16,15 @@
     display: EMNLP 2023
   highlight: 1
 
+- title: "Let's Synthesize Step by Step: Iterative Dataset Synthesis with Large Language Models by Extrapolating Errors from Small Models"
+  image: synth.png
+  description: We propose a data synthesis approach that iteratively extrapolates errors made by a small model trained on the synthesized dataset on a real-world validation dataset using LLMs.
+  authors: Ruida Wang, Wangchunshu Zhou and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/abs/2310.13671
+    display: EMNLP 2023 (Findings)
+  highlight: 1
+
 - title: "Re-visiting Automated Topic Model Evaluation with Large Language Models"
   image: tm.png
   description: We study how topic models can be automatically evaluated using LLMs.
