@@ -1,3 +1,12 @@
+- title: "A Mechanistic Interpretation of Arithmetic Reasoning in Language Models using Causal Mediation Analysis"
+  image: causalinterp.png
+  description: We explore a mechanistic interpretation of LMs for arithmetic reasoning tasks using causal mediation analysis.
+  authors: Alessandro Stolfo, Yonatan Belinkov and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/abs/2305.15054
+    display: EMNLP 2023
+  highlight: 1
+
 - title: "Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models"
   image: interp.png
   description: We explore a mechanistic interpretation of LMs for multi-step reasoning tasks.
