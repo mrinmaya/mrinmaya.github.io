@@ -7,6 +7,18 @@
     display: EMNLP 2023
   highlight: 1
 
+- title: "MATHDIAL: A Dialogue Tutoring Dataset with Rich Pedagogical Properties Grounded in Math Reasoning Problems"
+  image: mathdial.png
+  description: We propose an approach to semi-synthetically generate a pedagogically rich dialog dataset by pairing real teachers with a large language models scaffolded to represent common student errors.
+  authors: Jakub Macina, Nico Daheim, Sankalan Pal Chowdhury, Tanmay Sinha, Manu Kapur, Iryna Gurevych and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/abs/2305.14536
+    display: EMNLP 2023 (Findings)
+  codelink:
+    url: https://github.com/eth-nlped/mathdial
+    display: Code
+  highlight: 1
+
 - title: "Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models"
   image: interp.png
   description: We explore a mechanistic interpretation of LMs for multi-step reasoning tasks.
@@ -41,18 +53,6 @@
   link:
     url: https://arxiv.org/abs/2310.13544
     display: EMNLP 2023
-  highlight: 1
-
-- title: "MATHDIAL: A Dialogue Tutoring Dataset with Rich Pedagogical Properties Grounded in Math Reasoning Problems"
-  image: mathdial.png
-  description: We propose an approach to semi-synthetically generate a pedagogically rich dialog dataset by pairing real teachers with a large language models scaffolded to represent common student errors.
-  authors: Jakub Macina, Nico Daheim, Sankalan Pal Chowdhury, Tanmay Sinha, Manu Kapur, Iryna Gurevych and Mrinmaya Sachan
-  link:
-    url: https://arxiv.org/abs/2305.14536
-    display: EMNLP 2023 (Findings)
-  codelink:
-    url: https://github.com/eth-nlped/mathdial
-    display: Code
   highlight: 1
 
 - title: "Can Large Language Models Infer Causation from Correlation?"
