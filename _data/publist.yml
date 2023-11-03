@@ -1,3 +1,12 @@
+- title: "Re-visiting Automated Topic Model Evaluation with Large Language Models"
+  image: tm.png
+  description: We shtudy how user trust is developed and how it can be regained after potential trust-eroding events in Human-AI collaboration.
+  authors: Dominik Stammbach, Vilém Zouhar, Alexander Hoyle, Mrinmaya Sachan and Elliott Ash
+  link:
+    url: https://arxiv.org/abs/2305.12152
+    display: EMNLP 2023 (Short)
+  highlight: 1
+
 - title: "A Diachronic Perspective on User Trust in AI under Uncertainty"
   image: trust.png
   description: We shtudy how user trust is developed and how it can be regained after potential trust-eroding events in Human-AI collaboration.
