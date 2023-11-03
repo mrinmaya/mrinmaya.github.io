@@ -4,7 +4,7 @@
   authors: Jakub Macina, Nico Daheim, Sankalan Pal Chowdhury, Tanmay Sinha, Manu Kapur, Iryna Gurevych and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2305.14536
-    display: arXiv 2023
+    display: EMNLP 2023 (Findings)
   codelink:
     url: https://github.com/eth-nlped/mathdial
     display: Code
@@ -43,7 +43,7 @@
   authors: Fernando Gonzalez, Zhijing Jin, Bernhard Schölkopf, Tom Hope, Mrinmaya Sachan and Rada Mihalcea 
   link:
     url: https://arxiv.org/abs/2202.13758
-    display: arXiv 2023
+    display: EMNLP 2023 (Findings)
   highlight: 1
 
 - title: "Enhancing Textbooks with Visuals from the Web for Improved Learning"
@@ -52,7 +52,7 @@
   authors: Janvijay Singh, Vilém Zouhar and Mrinmaya Sachan
   link:
     url: https://arxiv.org/pdf/2304.08931.pdf
-    display: https://arxiv.org/pdf/2304.08931.pdf
+    display: EMNLP 2023
   highlight: 1
 
 - title: "Elastic Weight Removal for Faithful and Abstractive Dialogue Generation"
