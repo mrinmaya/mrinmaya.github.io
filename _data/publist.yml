@@ -64,6 +64,15 @@
     display: arXiv 2023
   highlight: 1
 
+- title: "Order-Theoretic Structured Prediction: Partially Ordering Tokens within a String"
+  image: po.png
+  description: We reduce the complexity of structure prediction tasks to linear by casting the relation between tokens as a partial order over the string.
+  authors: Tianyu Liu, Afra Amini, Mrinmaya Sachan and Ryan Cotterell
+  link:
+    url: https://arxiv.org/abs/2305.15057
+    display: EMNLP 2023
+  highlight: 1
+
 - title: "RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text"
   image: rgpt.png
   description: We present RecurrentGPT, a language based simulacrum of the recurrence mechanism in RNNs which enables us to use ChatGPT to generate long texts.
