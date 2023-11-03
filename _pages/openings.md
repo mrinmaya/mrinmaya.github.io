@@ -14,7 +14,7 @@ We have a few postdoc openings in our lab. Feel free to reach out. You can also 
 
 # PhD students
 
-Here is some information on ways to apply:
+We also have a few PhD openings in our lab. Here is some information on ways to apply:
 1. If you have (or expect to obtain soon) a M.Sc. degree and are interested in interdisciplinary research, consider applying to the [ETH AI center PhD fellowship](https://ai.ethz.ch/education/phd-and-postdoc-programs.html) and mention my name in your application.
 2. If you have (or expect to obtain soon) a M.Sc. degree and are interested in the [Center for Learning Systems](https://learning-systems.org/) (our joint PhD program with Max Planck), apply and mention my name in your application. Please note the early application deadline.
 3. If you have (or expect to obtain soon) a M.Sc. degree and are interested in NLP for Education, consider applying to the [ETH Zurich - EPFL Joint Doctoral Program in the Learning Sciences](https://lse.ethz.ch/doctoral-program-in-learning-sciences.html) and mention my name in your application. The program accepts applications twice a year.
