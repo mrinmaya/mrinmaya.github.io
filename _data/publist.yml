@@ -64,6 +64,15 @@
     display: arXiv 2023
   highlight: 1
 
+- title: "CLadder: A Benchmark to Assess Causal Reasoning Capabilities of Language Models"
+  image: cladder.png
+  description: We propose a new NLP task, causal inference in natural language, inspired by the “causal inference engine” postulated by Judea Pearl et al.
+  authors: Zhijing Jin, Yuen Chen, Felix Leeb, Luigi Gresele, Ojasv Kamal, Zhiheng LYU, Kevin Blin, Fernando Gonzalez Adauto, Max Kleiman-Weiner, Mrinmaya Sachan and Bernhard Schölkopf
+  link:
+    url: https://neurips.cc/virtual/2023/poster/70983
+    display: NeurIPS 2023
+  highlight: 1
+
 - title: "Order-Theoretic Structured Prediction: Partially Ordering Tokens within a String"
   image: po.png
   description: We reduce the complexity of structure prediction tasks to linear by casting the relation between tokens as a partial order over the string.
