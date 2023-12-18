@@ -107,6 +107,15 @@
   education1: MS Harbin Institute of Technology
   education2: BS Harbin Institute of Technology
 
+- name: Yilmazcan Ozyurt
+  photo: ozyurt.jpg
+  info: PhD Student
+  hobbies: Guitar, table tennis, video games
+  number_educ: 2
+  researchinterest: math word problem solving, knowledge tracing, knowledge distillation
+  education1: MS ETH Zurich
+  education2: BS Koc University
+
 - name: Andreas Opedal
   photo: andreas.jpg
   info: PhD Student, CLS fellow (co-advised with Bernhard Schölkopf)
