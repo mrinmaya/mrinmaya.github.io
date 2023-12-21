@@ -31,7 +31,7 @@ Please [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdxL1y_7Vn3
 ### Bachelor/Master projects for ETH Zurich students
 If you are a Master student at ETH Zurich looking for a thesis project, we maintain a list of available thesis projects [here](https://docs.google.com/document/d/1V6VXXAUmfEURldrbPtCiIFAOW4UKoXT49fTvTSOsRTk/edit#). However, you can also propose your own topic.
 
-If you are a Bachelor at ETH Zurich looking for a thesis project, you should ideally have succesfully completed one of the two NLP classes in the department (252-3005-00L-Natural Language Processing or 263-5000-00L-Computational Semantics for Natural Language Processing) or our AI in Education class (263-5005-00L). However, there can be exceptions. Feel free to contact Mrinmaya (or any group member) by email with your CV and transcripts. Some available thesis projects are listed [here](https://docs.google.com/document/d/1V6VXXAUmfEURldrbPtCiIFAOW4UKoXT49fTvTSOsRTk/edit#). You can also propose your own topic.
+If you are a Bachelor at ETH Zurich looking for a thesis project, you should ideally have succesfully completed one of the two NLP classes in the department (252-3005-00L-Natural Language Processing or 263-5000-00L-Computational Semantics for Natural Language Processing) or our AI in Education class (263-5005-00L). However, there can be exceptions. Some available thesis projects are listed [here](https://docs.google.com/document/d/1V6VXXAUmfEURldrbPtCiIFAOW4UKoXT49fTvTSOsRTk/edit#). You can also propose your own topic.
 
 ### Bachelor/Master projects for students at other universities
 We usually have extremely limited bandwidth to take on bachelor or master students from other universities. If you think you are a very good fit, feel free to reach out.
