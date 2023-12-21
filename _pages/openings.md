@@ -26,7 +26,7 @@ We can also host PhD students as a part of the [ELLIS PhD program](https://ellis
 
 # Bachelor and Master projects
 ### Bachelor/Master projects for ETH Zurich students
-If you are a Master student at ETH Zurich looking for a thesis project, contact Mrinmaya (or any group member) by email with your CV and transcripts. We maintain a list of available thesis projects [here](https://docs.google.com/document/d/1V6VXXAUmfEURldrbPtCiIFAOW4UKoXT49fTvTSOsRTk/edit#). However, you can also propose your own topic.
+If you are a Master student at ETH Zurich looking for a thesis project, please [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdxL1y_7Vn3FndM04gJBqAWTANcqHgk0MtT1rEv0oYnNUeBYA/viewform?usp=sf_link). We maintain a list of available thesis projects [here](https://docs.google.com/document/d/1V6VXXAUmfEURldrbPtCiIFAOW4UKoXT49fTvTSOsRTk/edit#). However, you can also propose your own topic.
 
 If you are a Bachelor at ETH Zurich looking for a thesis project, you should ideally have succesfully completed one of the two NLP classes in the department (252-3005-00L-Natural Language Processing or 263-5000-00L-Computational Semantics for Natural Language Processing) or our AI in Education class (263-5005-00L). However, there can be exceptions. Feel free to contact Mrinmaya (or any group member) by email with your CV and transcripts. Some available thesis projects are listed [here](https://docs.google.com/document/d/1V6VXXAUmfEURldrbPtCiIFAOW4UKoXT49fTvTSOsRTk/edit#). You can also propose your own topic.
 
