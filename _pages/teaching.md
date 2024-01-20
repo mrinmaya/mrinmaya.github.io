@@ -6,6 +6,11 @@ sitemap: false
 permalink: /teaching
 ---
 
+## [Computational Semantics for NLP (Spring Semester 2024)]({{site.url}}{{site.baseurl}}/teaching_csnlp24)
+#### <font color=gray>ETH Zürich, Spring Semester 2024</font>: [Course catalog](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=178278&semkez=2024S&ansicht=LEHRVERANSTALTUNGEN&lang=en)
+
+___
+
 
 ## [Computational Semantics for NLP (Spring Semester 2023)]({{site.url}}{{site.baseurl}}/teaching_csnlp23)
 #### <font color=gray>ETH Zürich, Spring Semester 2023</font>: [Course catalog](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=168543&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en)

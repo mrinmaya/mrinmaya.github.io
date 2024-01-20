@@ -53,13 +53,6 @@
   education1: MS ETH Zürich
   education2: BS City University of Hong Kong
 
-- name: Yuchen Jiang
-  photo: yunchen.JPG
-  info: Direct Doctorate Student (co-advised with Ryan Cotterell)
-  hobbies: Hiking, skiing, partying
-  number_educ: 1
-  education1: BS Zhejiang University
-
 - name: Tianyu Liu
   photo: tianyu.jpg
   info: Direct Doctorate Student (co-advised with Ryan Cotterell)
@@ -90,14 +83,6 @@
   number_educ: 2
   education1: MS Saarland + Groningen University
   education2: BS Charles University
-
-- name: Wangchunshu Zhou
-  photo: zwcs.png
-  info: PhD Student (co-advised with Ryan Cotterell)
-  hobbies: Video Games, Football, Reading
-  number_educ: 2
-  education1: MS Beihang University
-  education2: BS Beihang University
 
 - name: Peng Cui
   photo: peng.png
