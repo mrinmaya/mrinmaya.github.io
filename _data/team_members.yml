@@ -101,6 +101,14 @@
   education1: MS ETH Zurich
   education2: BS Koc University
 
+- name: Javier Rando
+  photo: prof_pic.jpg
+  info: PhD Student, ETH AI Center fellow (co-advised with Florian Tramèr)
+  hobbies: travelling, basketball
+  number_educ: 2
+  education1: MSc ETH Zurich
+  education2: BSc Pompeu Fabra University
+
 - name: Andreas Opedal
   photo: andreas.jpg
   info: PhD Student, CLS fellow (co-advised with Bernhard Schölkopf)
