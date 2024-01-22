@@ -98,7 +98,7 @@
 
 - name: Andreas Opedal
   photo: andreas.jpg
-  link: 
+  link: https://opedal.github.io/
   info: PhD Student, CLS fellow (co-advised with Bernhard Schölkopf)
   startyear: 2022
   researchinterest: Neuro-symbolic reasoning, parsing, formal languages, causality
