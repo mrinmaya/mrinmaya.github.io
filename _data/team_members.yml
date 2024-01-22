@@ -32,7 +32,7 @@
 
 - name: Nico Daheim
   photo: 37595556.jpg
-  link: 
+  link: https://ndaheim.github.io/
   info: PhD Student, ELLIS fellow (Primary advisor&#58; Iryna Gurevych)
   startyear: 2022
   researchinterest: Dialog systems, natural language generation, retrieval models
@@ -43,7 +43,7 @@
 
 - name: Shehzaad Dhuliawala
   photo: Shehzaad.jpg
-  link: 
+  link: https://shehzaadzd.github.io/
   info: PhD Student, IBM fellow
   hobbies: Reading, boardgames, hiking
   number_educ: 2
@@ -52,7 +52,7 @@
 
 - name: Yifan Hou
   photo: Yifan.jpg
-  link: 
+  link: https://yifan-h.github.io/
   info: PhD student, SDSC fellow
   hobbies: Fitness, PC games, Cycling
   number_educ: 2
@@ -61,7 +61,7 @@
 
 - name: Zhijing Jin
   photo: Zhijing.png
-  link: 
+  link: https://zhijing-jin.com/fantasy/
   info: PhD Student, Ellis fellow (Primary advisor&#58; Bernhard Schölkopf)
   startyear: 2020
   researchinterest: CausalNLP, NLP for Social Good, robustness, AI safety
@@ -87,7 +87,7 @@
 
 - name: Jakub Macina
   photo: Jakub.jfif
-  link: 
+  link: https://macina.sk/
   info: PhD Student, ETH AI center fellow (co-advised with Manu Kapur)
   startyear: 2021
   researchinterest: NLP in education, generative models
@@ -119,7 +119,7 @@
 
 - name: Javier Rando
   photo: prof_pic.jpg
-  link: 
+  link: https://javirando.com/
   info: PhD Student, ETH AI Center fellow (co-advised with Florian Tramèr)
   hobbies: travelling, basketball
   number_educ: 2
@@ -128,7 +128,7 @@
 
 - name: Kumar Shridhar
   photo: Shridhar.jpg
-  link: 
+  link: https://kumar-shridhar.github.io/
   info: PhD Student
   startyear: 2021
   researchinterest: Generative models, entity linking, maths word problem solving
@@ -138,7 +138,7 @@
 
 - name: Alessandro Stolfo
   photo: Alessandro.jpg
-  link: 
+  link: https://alestolfo.github.io/
   info: PhD Student, CYD Fellow
   hobbies: Football, Skiing, Drumming
   number_educ: 2
@@ -147,7 +147,7 @@
 
 - name: Vilém Zouhar
   photo: vilem.jpeg
-  link: 
+  link: https://vilda.net/
   info: PhD Student
   startyear: 2022
   researchinterest: Non-mainstream MT, creative NLP, fusion-/retrieval-enhanced NLP
@@ -177,7 +177,7 @@
 
 - name: Carl Allen
   photo: na.jpg
-  link: 
+  link: https://carl-allen.github.io/
   info: PostDoctoral Fellow, ETH AI Centre
   hobbies: Travelling, surfing, hiking, cycling
   number_educ: 2
@@ -187,7 +187,7 @@
 
 - name: Ethan Wilcox
   photo: ethan.jpeg
-  link: 
+  link: https://wilcoxeg.github.io/
   info: Postdoctoral Researcher
   startyear: 2022
   number_educ: 2
