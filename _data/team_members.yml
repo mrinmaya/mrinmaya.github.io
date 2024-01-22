@@ -10,13 +10,31 @@
   photo: na.jpg
   info: Administrative Assistant
 
-- name: Yifan Hou
-  photo: Yifan.jpg
-  info: PhD student, SDSC fellow
-  hobbies: Fitness, PC games, Cycling
+
+- name: Sankalan Pal Chowdhury
+  photo: Sankalan.jpg
+  info: Direct Doctorate Student (co-advised with Ryan Cotterell)
+  hobbies: Singing
+  number_educ: 1
+  education1: BS IIT Delhi
+
+- name: Peng Cui
+  photo: peng.png
+  info: PhD Student
+  hobbies: Reading, Travelling, Fitness
   number_educ: 2
-  education1: MS CUHK
-  education2: BS HUST
+  education1: MS Harbin Institute of Technology
+  education2: BS Harbin Institute of Technology
+
+- name: Nico Daheim
+  photo: 37595556.jpg
+  info: PhD Student, ELLIS fellow (Primary advisor&#58; Iryna Gurevych)
+  startyear: 2022
+  researchinterest: Dialog systems, natural language generation, retrieval models
+  hobbies: Fitness, Football, Hiking
+  number_educ: 2
+  education1: MS RWTH Aachen University
+  education2: BS University of Koblenz
 
 - name: Shehzaad Dhuliawala
   photo: Shehzaad.jpg
@@ -26,24 +44,22 @@
   education1: MS UMass Amherst
   education2: BS VNIT Nagpur
 
-- name: Kumar Shridhar
-  photo: Shridhar.jpg
-  info: PhD Student
-  startyear: 2021
-  researchinterest: Generative models, entity linking, maths word problem solving
-  hobbies: Tennis, Traveling
-  number_educ: 1
-  education1: MS TU Kaiserslautern
-
-- name: Jakub Macina
-  photo: Jakub.jfif
-  info: PhD Student, ETH AI center fellow (co-advised with Manu Kapur)
-  startyear: 2021
-  researchinterest: NLP in education, generative models
-  hobbies: Football, Mountain biking, Hiking
+- name: Yifan Hou
+  photo: Yifan.jpg
+  info: PhD student, SDSC fellow
+  hobbies: Fitness, PC games, Cycling
   number_educ: 2
-  education1: MS Slovak University of Technology
-  education2: BS Slovak University of Technology
+  education1: MS CUHK
+  education2: BS HUST
+
+- name: Zhijing Jin
+  photo: Zhijing.png
+  info: PhD Student, Ellis fellow (Primary advisor&#58; Bernhard Schölkopf)
+  startyear: 2020
+  researchinterest: CausalNLP, NLP for Social Good, robustness, AI safety
+  hobbies: Kayaking, hiking, learning languages
+  number_educ: 1
+  education1: BS University of Hong Kong
 
 - name: Jiaoda Li
   photo: Jiaoda.jpg
@@ -59,12 +75,51 @@
   number_educ: 1
   education1: BS Peking University
 
-- name: Sankalan Pal Chowdhury
-  photo: Sankalan.jpg
-  info: Direct Doctorate Student (co-advised with Ryan Cotterell)
-  hobbies: Singing
+- name: Jakub Macina
+  photo: Jakub.jfif
+  info: PhD Student, ETH AI center fellow (co-advised with Manu Kapur)
+  startyear: 2021
+  researchinterest: NLP in education, generative models
+  hobbies: Football, Mountain biking, Hiking
+  number_educ: 2
+  education1: MS Slovak University of Technology
+  education2: BS Slovak University of Technology
+
+- name: Andreas Opedal
+  photo: andreas.jpg
+  info: PhD Student, CLS fellow (co-advised with Bernhard Schölkopf)
+  startyear: 2022
+  researchinterest: Neuro-symbolic reasoning, parsing, formal languages, causality
+  hobbies: Fitness, Health, Traveling
+  number_educ: 2
+  education1: MS ETH Zürich
+  education2: BS Chalmers University of Technology
+
+- name: Yilmazcan Ozyurt
+  photo: ozyurt.jpg
+  info: PhD Student
+  hobbies: Guitar, table tennis, video games
+  number_educ: 2
+  researchinterest: math word problem solving, knowledge tracing, knowledge distillation
+  education1: MS ETH Zurich
+  education2: BS Koc University
+
+- name: Javier Rando
+  photo: prof_pic.jpg
+  info: PhD Student, ETH AI Center fellow (co-advised with Florian Tramèr)
+  hobbies: travelling, basketball
+  number_educ: 2
+  education1: MSc ETH Zurich
+  education2: BSc Pompeu Fabra University
+
+- name: Kumar Shridhar
+  photo: Shridhar.jpg
+  info: PhD Student
+  startyear: 2021
+  researchinterest: Generative models, entity linking, maths word problem solving
+  hobbies: Tennis, Traveling
   number_educ: 1
-  education1: BS IIT Delhi
+  education1: MS TU Kaiserslautern
 
 - name: Alessandro Stolfo
   photo: Alessandro.jpg
@@ -84,59 +139,6 @@
   education1: MS Saarland + Groningen University
   education2: BS Charles University
 
-- name: Peng Cui
-  photo: peng.png
-  info: PhD Student
-  hobbies: Reading, Travelling, Fitness
-  number_educ: 2
-  education1: MS Harbin Institute of Technology
-  education2: BS Harbin Institute of Technology
-
-- name: Yilmazcan Ozyurt
-  photo: ozyurt.jpg
-  info: PhD Student
-  hobbies: Guitar, table tennis, video games
-  number_educ: 2
-  researchinterest: math word problem solving, knowledge tracing, knowledge distillation
-  education1: MS ETH Zurich
-  education2: BS Koc University
-
-- name: Javier Rando
-  photo: prof_pic.jpg
-  info: PhD Student, ETH AI Center fellow (co-advised with Florian Tramèr)
-  hobbies: travelling, basketball
-  number_educ: 2
-  education1: MSc ETH Zurich
-  education2: BSc Pompeu Fabra University
-
-- name: Andreas Opedal
-  photo: andreas.jpg
-  info: PhD Student, CLS fellow (co-advised with Bernhard Schölkopf)
-  startyear: 2022
-  researchinterest: Neuro-symbolic reasoning, parsing, formal languages, causality
-  hobbies: Fitness, Health, Traveling
-  number_educ: 2
-  education1: MS ETH Zürich
-  education2: BS Chalmers University of Technology
-  
-- name: Zhijing Jin
-  photo: Zhijing.png
-  info: PhD Student, Ellis fellow (Primary advisor&#58; Bernhard Schölkopf)
-  startyear: 2020
-  researchinterest: CausalNLP, NLP for Social Good, robustness, AI safety
-  hobbies: Kayaking, hiking, learning languages
-  number_educ: 1
-  education1: BS University of Hong Kong
-
-- name: Nico Daheim
-  photo: 37595556.jpg
-  info: PhD Student, ELLIS fellow (Primary advisor&#58; Iryna Gurevych)
-  startyear: 2022
-  researchinterest: Dialog systems, natural language generation, retrieval models
-  hobbies: Fitness, Football, Hiking
-  number_educ: 2
-  education1: MS RWTH Aachen University
-  education2: BS University of Koblenz
 
 - name: Oleh Kuzyk
   photo: Oleh.jpg
@@ -145,14 +147,14 @@
   number_educ: 1
   education1: BS Lviv Polytechnic National University
 
-- name: Ethan Wilcox
-  photo: ethan.jpeg
-  info: Postdoctoral Researcher
-  startyear: 2022
+- name: Quynh Anh Nguyen
+  photo: foto-square.jpg
+  info: Master Student
+  hobbies: Philosophy, Psychology, Meditation
   number_educ: 2
-  researchinterest: how people process language as they read; how they make inferences about language structure during language learning
-  education1: BS Stanford University
-  education2: PhD Harvard University
+  education1: MS University of Milan, ETH Zürich (exchange)
+  education2: BS FTU Vietnam
+
 
 - name: Carl Allen
   photo: na.jpg
@@ -162,3 +164,12 @@
   researchinterest: mathematical understanding of machine learning, representation and latent variable modelling
   education1: MS Oxford, Edinburgh
   education2: PhD Edinburgh
+
+- name: Ethan Wilcox
+  photo: ethan.jpeg
+  info: Postdoctoral Researcher
+  startyear: 2022
+  number_educ: 2
+  researchinterest: how people process language as they read; how they make inferences about language structure during language learning
+  education1: BS Stanford University
+  education2: PhD Harvard University
