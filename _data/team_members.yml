@@ -1,5 +1,6 @@
 - name: Mrinmaya Sachan
   photo: Mrinmaya.jpg
+  link: https://www.mrinmaya.io/
   info: Assistant Professor, ETH Zurich
   hobbies: Tennis, Boardgames, Travelling
   number_educ: 2
@@ -8,11 +9,13 @@
 
 - name: Patrizia Napoli
   photo: na.jpg
+  link: 
   info: Administrative Assistant
 
 
 - name: Sankalan Pal Chowdhury
   photo: Sankalan.jpg
+  link: 
   info: Direct Doctorate Student (co-advised with Ryan Cotterell)
   hobbies: Singing
   number_educ: 1
@@ -20,6 +23,7 @@
 
 - name: Peng Cui
   photo: peng.png
+  link: 
   info: PhD Student
   hobbies: Reading, Travelling, Fitness
   number_educ: 2
@@ -28,6 +32,7 @@
 
 - name: Nico Daheim
   photo: 37595556.jpg
+  link: 
   info: PhD Student, ELLIS fellow (Primary advisor&#58; Iryna Gurevych)
   startyear: 2022
   researchinterest: Dialog systems, natural language generation, retrieval models
@@ -38,6 +43,7 @@
 
 - name: Shehzaad Dhuliawala
   photo: Shehzaad.jpg
+  link: 
   info: PhD Student, IBM fellow
   hobbies: Reading, boardgames, hiking
   number_educ: 2
@@ -46,6 +52,7 @@
 
 - name: Yifan Hou
   photo: Yifan.jpg
+  link: 
   info: PhD student, SDSC fellow
   hobbies: Fitness, PC games, Cycling
   number_educ: 2
@@ -54,6 +61,7 @@
 
 - name: Zhijing Jin
   photo: Zhijing.png
+  link: 
   info: PhD Student, Ellis fellow (Primary advisor&#58; Bernhard Schölkopf)
   startyear: 2020
   researchinterest: CausalNLP, NLP for Social Good, robustness, AI safety
@@ -63,6 +71,7 @@
 
 - name: Jiaoda Li
   photo: Jiaoda.jpg
+  link: 
   info: PhD Student, ETH AI center fellow (co-advised with Ryan Cotterell)
   hobbies: Movie, Table tennis, Museum
   number_educ: 2
@@ -71,12 +80,14 @@
 
 - name: Tianyu Liu
   photo: tianyu.jpg
+  link: 
   info: Direct Doctorate Student (co-advised with Ryan Cotterell)
   number_educ: 1
   education1: BS Peking University
 
 - name: Jakub Macina
   photo: Jakub.jfif
+  link: 
   info: PhD Student, ETH AI center fellow (co-advised with Manu Kapur)
   startyear: 2021
   researchinterest: NLP in education, generative models
@@ -87,6 +98,7 @@
 
 - name: Andreas Opedal
   photo: andreas.jpg
+  link: 
   info: PhD Student, CLS fellow (co-advised with Bernhard Schölkopf)
   startyear: 2022
   researchinterest: Neuro-symbolic reasoning, parsing, formal languages, causality
@@ -97,6 +109,7 @@
 
 - name: Yilmazcan Ozyurt
   photo: ozyurt.jpg
+  link: 
   info: PhD Student
   hobbies: Guitar, table tennis, video games
   number_educ: 2
@@ -106,6 +119,7 @@
 
 - name: Javier Rando
   photo: prof_pic.jpg
+  link: 
   info: PhD Student, ETH AI Center fellow (co-advised with Florian Tramèr)
   hobbies: travelling, basketball
   number_educ: 2
@@ -114,6 +128,7 @@
 
 - name: Kumar Shridhar
   photo: Shridhar.jpg
+  link: 
   info: PhD Student
   startyear: 2021
   researchinterest: Generative models, entity linking, maths word problem solving
@@ -123,6 +138,7 @@
 
 - name: Alessandro Stolfo
   photo: Alessandro.jpg
+  link: 
   info: PhD Student, CYD Fellow
   hobbies: Football, Skiing, Drumming
   number_educ: 2
@@ -131,6 +147,7 @@
 
 - name: Vilém Zouhar
   photo: vilem.jpeg
+  link: 
   info: PhD Student
   startyear: 2022
   researchinterest: Non-mainstream MT, creative NLP, fusion-/retrieval-enhanced NLP
@@ -142,6 +159,7 @@
 
 - name: Oleh Kuzyk
   photo: Oleh.jpg
+  link: 
   info: Master Student
   hobbies: Reading, travelling, board games, learning languages
   number_educ: 1
@@ -149,6 +167,7 @@
 
 - name: Quynh Anh Nguyen
   photo: foto-square.jpg
+  link: 
   info: Master Student
   hobbies: Philosophy, Psychology, Meditation
   number_educ: 2
@@ -158,6 +177,7 @@
 
 - name: Carl Allen
   photo: na.jpg
+  link: 
   info: PostDoctoral Fellow, ETH AI Centre
   hobbies: Travelling, surfing, hiking, cycling
   number_educ: 2
@@ -167,6 +187,7 @@
 
 - name: Ethan Wilcox
   photo: ethan.jpeg
+  link: 
   info: Postdoctoral Researcher
   startyear: 2022
   number_educ: 2
