@@ -1,4 +1,4 @@
-# Natural Language Processing and Education Lab
+# Natural Language Processing and Education (LRE) Lab
 
 This is the website of our academic research group at ETH Zurich.
 
