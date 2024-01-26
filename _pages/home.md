@@ -1,7 +1,7 @@
 ---
-title: "ETH NLPED Lab - Home"
+title: "ETH LRE Lab - Home"
 layout: homelay
-excerpt: "ETH NLPED Lab at ETH Zurich."
+excerpt: "ETH LRE Lab at ETH Zurich."
 sitemap: false
 permalink: /
 ---

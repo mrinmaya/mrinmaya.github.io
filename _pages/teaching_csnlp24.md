@@ -1,5 +1,5 @@
 ---
-title: "Mrinmaya's Lab - Teaching"
+title: "ETH LRE Lab - Teaching"
 layout: teaching
 excerpt: "Teaching"
 sitemap: false

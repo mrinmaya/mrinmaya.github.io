@@ -1,5 +1,5 @@
 ---
-title: "Mrinmaya's Lab - Vacancies"
+title: "ETH LRE Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

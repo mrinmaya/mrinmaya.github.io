@@ -1,7 +1,7 @@
 ---
-title: "Mrinmaya's Lab - Publications"
+title: "ETH LRE Lab - Publications"
 layout: gridlay
-excerpt: "Mrinmaya's Lab -- Publications."
+excerpt: "ETH LRE Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---

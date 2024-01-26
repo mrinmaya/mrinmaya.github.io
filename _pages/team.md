@@ -1,7 +1,7 @@
 ---
-title: "ETH NLPED - Team"
+title: "ETH LRE - Team"
 layout: gridlay
-excerpt: "ETH NLPED Lab: Team members"
+excerpt: "ETH LRE Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
