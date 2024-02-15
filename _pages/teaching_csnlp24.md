@@ -21,7 +21,7 @@ ___
 ### **Grading**
 The final assessment will be a combination of a group paper presentation (10%), two graded exercises (40%) and the project (50%). There will be no written exams.
 
-**Lectures:** Fri 14:00-16:00 (the class will be in person)
+**Lectures:** Fri 14:00-16:00 (CAB G61)
 
 **Discussion Sections:**  Fri 16:00-17:00
 
@@ -35,7 +35,7 @@ However, the following textbooks would be useful:
 2. [Speech and Language Processing by Jurafsky and Martin](https://web.stanford.edu/~jurafsky/slp3/)
 
 ## News
-**09.02**    Class website is online!
+**15.02**    Class website is online!
 
 ___
 
