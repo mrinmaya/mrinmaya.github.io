@@ -46,7 +46,7 @@ ___
 |&nbsp;&nbsp;1|&nbsp;23.02&nbsp;&nbsp;&nbsp;&nbsp;|<b>Introduction</b>|[Diagnostic Quiz](https://polybox.ethz.ch/index.php/s/YCTThVpOd5Cu2AO) [Answers to quiz](https://polybox.ethz.ch/index.php/s/7VPcHOmIxQD5AcX)|Presentation preference indication|
 |&nbsp;&nbsp;2|&nbsp;01.03&nbsp;|<b>The Distributional Hypothesis and Word Vectors</b>|1. [Glove](https://nlp.stanford.edu/pubs/glove.pdf)||
 |&nbsp;Voluntary |&nbsp;01.03&nbsp;| Matrix Calculus and Backpropagation|1. [CS231n notes on network architectures](http://cs231n.github.io/neural-networks-1/) <br> 2. [CS231n notes on backprop](http://cs231n.github.io/optimization-2/) <br> 3. [Learning Representations by Backpropagating Errors](http://www.iro.umontreal.ca/) <br> 4. [Derivatives, Backpropagation, and Vectorization](http://cs231n.stanford.edu/handouts/derivatives.pdf) <br> 5. [Yes you should understand backprop](https://medium.com/)||Shehzaad|
-|&nbsp;&nbsp;3|&nbsp;08.03 &nbsp;|<b>Word Vectors 2, Word Senses and Sentence Vectors</b> <br><br> (Recursive and Recurrent Neural Networks)|1. [Unsupervised Word Sense Disambiguation Rivaling Supervised Methods](https://www.aclweb.org/anthology/P95-1026.pdf) <br> 2. [Improving Vector Space Word Representations Using Multilingual Correlation](https://www.aclweb.org/anthology/E14-1049.pdf) <br> 3. [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078) ||
+<!-- |&nbsp;&nbsp;3|&nbsp;08.03 &nbsp;|<b>Word Vectors 2, Word Senses and Sentence Vectors</b> <br><br> (Recursive and Recurrent Neural Networks)|1. [Unsupervised Word Sense Disambiguation Rivaling Supervised Methods](https://www.aclweb.org/anthology/P95-1026.pdf) <br> 2. [Improving Vector Space Word Representations Using Multilingual Correlation](https://www.aclweb.org/anthology/E14-1049.pdf) <br> 3. [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078) ||
 |&nbsp;Voluntary |&nbsp;08.03 &nbsp;|RNN, LSTM, GRU|1. [Review of Differential Calculus](http://web.stanford.edu/class/cs224n/readings/review-differential-calculus.pdf) <br> 2. [Natural Language Processing (Almost) from Scratch](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)||Alessandro|
 |&nbsp;4| &nbsp;15.03&nbsp; | <b>NLU beyond a sentence</b> <br><br> Seq2Seq and Attention <br><br> Case Study: Sentence Similarity, Textual Entailment and Machine Comprehension |1. [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/abs/1703.03906) <br> 2. [Bidirectional Attention Flow for Machine Comprehension](https://arxiv.org/abs/1611.01603) ||
 |&nbsp;Voluntary |&nbsp;15.03&nbsp;|Discussion on Final Projects (topics)|1. [Practical Methodology](https://www.deeplearningbook.org/contents/guidelines.html) (<i>Deep Learning</i> book chapter)||All TAs|
@@ -73,7 +73,7 @@ ___
 ||&nbsp;23.06&nbsp;|||Assignment 2 due|
 ||&nbsp;14.07&nbsp;|||Project report due|
 ||&nbsp;21.07&nbsp; <br> 2-4pm||[Schedule](https://docs.google.com/spreadsheets/d/1ofIg-3O8BFras93MIkTHVKPYxVYvjyq4nvlTwYxxC4k/edit?usp=sharing)|Poster session ([gather town link](https://app.gather.town/app/kXW69QBLS5oiqKBN/Poster%20Session%20CSNLP23))|
-
+-->
 
 
 
@@ -98,8 +98,8 @@ You can ask questions on [moodle](https://moodle-app2.let.ethz.ch/). Please post
 
 |:--|:--|
 |Lecturer| [Mrinmaya Sachan](http://www.mrinmaya.io/)|
-|Guest Lecturers|[Avinava Dubey]([https://research.google/people/ManzilZaheer/](https://sites.google.com/site/kumaravinavadubey/home)),&nbsp; [Ethan Wilcox](https://wilcoxeg.github.io/),&nbsp; [Alex Warstadt](https://alexwarstadt.com/)|
-|Teaching Assistants| [Alessandro Stolfo](https://ml.inf.ethz.ch/people/person-detail.MjUyNzIz.TGlzdC8xODA3LC0xNzg2MjE4NDI4.html),&nbsp; [Shehzaad Dhuliawala](https://people.cs.umass.edu/~sdhuliawala/),&nbsp; [Yifan Hou](https://yifan-h.github.io/),&nbsp; [Tianyu Liu](https://rycolab.io/authors/tianyu/),&nbsp; [Jiaoda Li](https://rycolab.io/authors/jiaoda/),&nbsp; [Sankalan Pal Chowdhury](https://www.mrinmaya.io/team/#:~:text=Sankalan%20Pal%20Chowdhury)|
+|Guest Lecturers|[Avinava Dubey]([https://research.google/people/ManzilZaheer/](https://sites.google.com/site/kumaravinavadubey/home))|
+|Teaching Assistants| [Shehzaad Dhuliawala](https://people.cs.umass.edu/~sdhuliawala/),&nbsp; [Yifan Hou](https://yifan-h.github.io/),&nbsp; [Sankalan Pal Chowdhury](https://www.mrinmaya.io/team/#:~:text=Sankalan%20Pal%20Chowdhury)|
 
 
 ___
