@@ -43,7 +43,7 @@ ___
 
 |:--|:--|:--|:--|:--|:--|
 |&nbsp;<b>Lecture</b>|<b>Date</b>|<b>Description</b>|<b>Course Materials</b>| <b>Events</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Exercise TA|
-|&nbsp;&nbsp;1|&nbsp;23.02&nbsp;&nbsp;&nbsp;&nbsp;|<b>Introduction</b>|[Diagnostic Quiz](https://polybox.ethz.ch/index.php/s/YCTThVpOd5Cu2AO) [Answers to quiz](https://polybox.ethz.ch/index.php/s/7VPcHOmIxQD5AcX)|Presentation preference indication|
+|&nbsp;&nbsp;1|&nbsp;23.02&nbsp;&nbsp;&nbsp;&nbsp;|<b>Introduction</b>|[Diagnostic Quiz](https://polybox.ethz.ch/index.php/s/YCTThVpOd5Cu2AO) <br> [Answers to quiz](https://polybox.ethz.ch/index.php/s/7VPcHOmIxQD5AcX) <br> [Guidelines for Paper Presentation](https://docs.google.com/document/d/1LcAHXw9k2kxUhIMWKk-xaKUkx12eA91ahiZuxfsYfOQ/edit)|Presentation preference indication|
 |&nbsp;&nbsp;2|&nbsp;01.03&nbsp;|<b>The Distributional Hypothesis and Word Vectors</b>|1. [Glove](https://nlp.stanford.edu/pubs/glove.pdf)||
 |&nbsp;Voluntary |&nbsp;01.03&nbsp;| Matrix Calculus and Backpropagation|1. [CS231n notes on network architectures](http://cs231n.github.io/neural-networks-1/) <br> 2. [CS231n notes on backprop](http://cs231n.github.io/optimization-2/) <br> 3. [Learning Representations by Backpropagating Errors](http://www.iro.umontreal.ca/) <br> 4. [Derivatives, Backpropagation, and Vectorization](http://cs231n.stanford.edu/handouts/derivatives.pdf) <br> 5. [Yes you should understand backprop](https://medium.com/)||Shehzaad|
 
