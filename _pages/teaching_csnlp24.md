@@ -46,35 +46,32 @@ ___
 |&nbsp;&nbsp;1|&nbsp;23.02&nbsp;&nbsp;&nbsp;&nbsp;|<b>Introduction</b>|[Diagnostic Quiz](https://polybox.ethz.ch/index.php/s/YCTThVpOd5Cu2AO) <br> [Answers to quiz](https://polybox.ethz.ch/index.php/s/7VPcHOmIxQD5AcX) <br> [Guidelines for Paper Presentation](https://docs.google.com/document/d/1LcAHXw9k2kxUhIMWKk-xaKUkx12eA91ahiZuxfsYfOQ/edit)|Presentation preference indication|
 |&nbsp;&nbsp;2|&nbsp;01.03&nbsp;|<b>The Distributional Hypothesis and Word Vectors</b>|1. [Glove](https://nlp.stanford.edu/pubs/glove.pdf)||
 |&nbsp;Voluntary |&nbsp;01.03&nbsp;| Matrix Calculus and Backpropagation|1. [CS231n notes on network architectures](http://cs231n.github.io/neural-networks-1/) <br> 2. [CS231n notes on backprop](http://cs231n.github.io/optimization-2/) <br> 3. [Learning Representations by Backpropagating Errors](http://www.iro.umontreal.ca/) <br> 4. [Derivatives, Backpropagation, and Vectorization](http://cs231n.stanford.edu/handouts/derivatives.pdf) <br> 5. [Yes you should understand backprop](https://medium.com/)||Shehzaad|
-
-<!-- |&nbsp;&nbsp;3|&nbsp;08.03 &nbsp;|<b>Word Vectors 2, Word Senses and Sentence Vectors</b> <br><br> (Recursive and Recurrent Neural Networks)|1. [Unsupervised Word Sense Disambiguation Rivaling Supervised Methods](https://www.aclweb.org/anthology/P95-1026.pdf) <br> 2. [Improving Vector Space Word Representations Using Multilingual Correlation](https://www.aclweb.org/anthology/E14-1049.pdf) <br> 3. [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078) ||
-|&nbsp;Voluntary |&nbsp;08.03 &nbsp;|RNN, LSTM, GRU|1. [Review of Differential Calculus](http://web.stanford.edu/class/cs224n/readings/review-differential-calculus.pdf) <br> 2. [Natural Language Processing (Almost) from Scratch](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)||Alessandro|
+|&nbsp;&nbsp;3|&nbsp;08.03 &nbsp;|<b>Word Vectors 2, Word Senses and Sentence Vectors</b> <br><br> (Recursive and Recurrent Neural Networks)|1. [Unsupervised Word Sense Disambiguation Rivaling Supervised Methods](https://www.aclweb.org/anthology/P95-1026.pdf) <br> 2. [Improving Vector Space Word Representations Using Multilingual Correlation](https://www.aclweb.org/anthology/E14-1049.pdf) <br> 3. [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078) ||
+|&nbsp;Voluntary |&nbsp;08.03 &nbsp;|Final projects (Introduction and Guidelines)|1. [Guidelines](https://docs.google.com/document/d/1b5FNlXqXsMsld83lmoE8EFsHEEuHRmQEP_EPOyAkwAU/edit) <br> 2. [Suggested projects](https://docs.google.com/document/d/1b5FNlXqXsMsld83lmoE8EFsHEEuHRmQEP_EPOyAkwAU/edit)||Yifan|
 |&nbsp;4| &nbsp;15.03&nbsp; | <b>NLU beyond a sentence</b> <br><br> Seq2Seq and Attention <br><br> Case Study: Sentence Similarity, Textual Entailment and Machine Comprehension |1. [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/abs/1703.03906) <br> 2. [Bidirectional Attention Flow for Machine Comprehension](https://arxiv.org/abs/1611.01603) ||
-|&nbsp;Voluntary |&nbsp;15.03&nbsp;|Discussion on Final Projects (topics)|1. [Practical Methodology](https://www.deeplearningbook.org/contents/guidelines.html) (<i>Deep Learning</i> book chapter)||All TAs|
+|&nbsp;Voluntary |&nbsp;15.03&nbsp;|Project rotation: <br> bring your project title; <br> find your supervised TAs|||All TAs|
 |&nbsp;5|&nbsp;22.03&nbsp;| <b>Syntax and Predicate Argument Structures</b> <br><br> (Semantic Role Labelling, Frame Semantics, etc.)|1. [Stanford’s Graph-based Neural Dependency Parser at the CoNLL 2017 Shared Task](https://www.aclweb.org/anthology/K17-3002.pdf) <br>2. [Grammar as a foreign language](https://papers.nips.cc/paper/2015/file/277281aada22045c03945dcb2ca6f2ec-Paper.pdf)|Assignment 1 released|
-|&nbsp;Voluntary|&nbsp;22.03&nbsp;|TBA|TBA||Tianyu|
-|&nbsp;<i>Easter</i>|&nbsp;29.03&nbsp;|||Project proposal due|
+|&nbsp;Voluntary|&nbsp;22.03&nbsp;|Cluster usage (Guidelines)|||Shehzaad|
+|&nbsp;<i>Easter</i>|&nbsp;29.03&nbsp;||||
 |&nbsp;<i>Easter</i>|&nbsp;05.04&nbsp;||||
-|&nbsp;6|&nbsp;12.04&nbsp;|<b>Predicate Argument Structures II</b> <br><br> (Semantic Role Labelling, Frame Semantics, etc.)|Voluntary<br>1.[Jointly Predicting Predicates and Arguments in Neural Semantic Role Labeling](https://aclanthology.org/P18-2058.pdf) <br> 2.[Frame-Semantic Parsing](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00163)||
-|&nbsp;Voluntary|&nbsp;12.04&nbsp;|Discussion on Final Projects (topics)|||All TAs|
+|&nbsp;6|&nbsp;12.04&nbsp;|<b>Predicate Argument Structures II</b> <br><br> (Semantic Role Labelling, Frame Semantics, etc.)|1.[Jointly Predicting Predicates and Arguments in Neural Semantic Role Labeling](https://aclanthology.org/P18-2058.pdf) <br> 2.[Frame-Semantic Parsing](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00163)|Project proposal due|
+|&nbsp;Voluntary|&nbsp;12.04&nbsp;|Project proposal discussion|Project feasiblity 1 <br> topics and proposal summary|[Schedule (TBD)]()|All TAs|
 |&nbsp;7|&nbsp;19.04&nbsp;|<b>Modelling and tracking entities:</b> NER, coreference and information extraction (entity and relation extraction)|1. [End-to-end Neural Coreference Resolution](https://arxiv.org/abs/1707.07045) <br> 2. [Improving Coreference Resolution by Learning Entity-Level Distributed Representations](https://aclanthology.org/P16-1061/)||
-|&nbsp;Voluntary|&nbsp;19.04&nbsp;|Assignment 1 Review (including QA)|||All TAs|
-|&nbsp;8|&nbsp;26.04&nbsp;|<b>Formal Representations of Language Meaning</b>|1.[Compositional semantic parsing on semi-structured tables](https://arxiv.org/abs/1508.00305) <br> 2.[Supertagging With LSTMs](https://aclanthology.org/N16-1027/)|Assignment 1 due|
-|&nbsp;Voluntary |&nbsp;26.04&nbsp;|Assignment 1 Discussion (QA)|||All TAs|
+|&nbsp;Voluntary|&nbsp;19.04&nbsp;|Project proposal discussion|Project feasiblity 2 <br> topics and proposal summary|[Schedule (TBD)]()|All TAs|
+|&nbsp;8|&nbsp;26.04&nbsp;|<b>Formal Representations of Language Meaning</b>|1.[Compositional semantic parsing on semi-structured tables](https://arxiv.org/abs/1508.00305) <br> 2.[Supertagging With LSTMs](https://aclanthology.org/N16-1027/)|Assignment 1 due <br>Assignment 2 release <br>Project proposal grade out|
+|&nbsp;Voluntary |&nbsp;26.04&nbsp;|Project proposal grade statistics & summary <br>Assignment 1 review (hint)|||All TAs|
 |&nbsp;9|&nbsp;03.05&nbsp;|<b>Transformers and Contextual Word Representations</b> (BERT, etc.) <br><br> Guest lecture by Avinava Dubey (Google)|1. [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062) (Only cover the idea of sparse attention: don’t need to cover turing completeness and the theoretical results)) <br> 2. [BERT rediscovers the classical NLP pipeline](https://arxiv.org/abs/1905.05950)||
-|&nbsp;Voluntary|&nbsp;03.05&nbsp;|Huggingface and Transformers|<br>1. [Huggingface](https://huggingface.co/)||Sankalan|
+|&nbsp;Voluntary|&nbsp;03.05&nbsp;|Optionla (schedule meeting with TA if necesary)||||
 |&nbsp;10|&nbsp;10.05&nbsp;|<b>Question Answering</b>|<br>1. [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051) <br> 2. [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300)||
-|&nbsp;Voluntary|&nbsp;10.05&nbsp;|Discussion on Final Projects (progress)|||All TAs|
-|&nbsp;11|&nbsp;17.05&nbsp;|<b>Natural Language Generation</b> <br><br> Case Study: Summarization and Conversation Modelling |1. [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> 2. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) |Assignment 2 release|
-|&nbsp;Voluntary|&nbsp;17.05&nbsp;|Transformer Illustrated|1. [The Illustrated Transformer (Jay Alammar)](https://jalammar.github.io/illustrated-transformer)||Jiaoda|
+|&nbsp;Voluntary|&nbsp;10.05&nbsp;|Huggingface and Transformers|<br>1. [Huggingface](https://huggingface.co/)||Sankalan|
+|&nbsp;11|&nbsp;17.05&nbsp;|<b>Natural Language Generation</b> <br><br> Case Study: Summarization and Conversation Modelling |1. [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> 2. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) |Assignment 1 grade out|
+|&nbsp;Voluntary|&nbsp;17.05&nbsp;|Assignment 1 grade statistics & summary <br> Project discussion 1 |Project progress, problems, whole storyline|[Schedule (TBD)]()|All TAs|
 |&nbsp;12|&nbsp;24.05&nbsp;|<b>Language + {Knowledge, Vision, Action}</b>|1. [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164) <br> 2. [VisualBERT: A Simple and Performant Baseline for Vision and Language](https://arxiv.org/abs/1908.03557)|Project mid-term report due|
-|&nbsp;Voluntary|&nbsp;24.05&nbsp;|Project discussion|Including some technical tricks on LM finetuning||Yifan|
-|&nbsp;13|&nbsp;31.05&nbsp;|<b>Pragmatics</b>|1. [Pragmatic Language Interpretation as Probabilistic Inference](http://langcog.stanford.edu/papers_new/goodman-2016-underrev.pdf) <br> 2. [Rational speech act models of pragmatic reasoning in reference games](https://psyarxiv.com/f9y6b/)||
-|&nbsp;Voluntary|&nbsp;31.05&nbsp;|Assignment 2 Review (including QA)|||All TAs|
-||&nbsp;23.06&nbsp;|||Assignment 2 due|
-||&nbsp;14.07&nbsp;|||Project report due|
-||&nbsp;21.07&nbsp; <br> 2-4pm||[Schedule](https://docs.google.com/spreadsheets/d/1ofIg-3O8BFras93MIkTHVKPYxVYvjyq4nvlTwYxxC4k/edit?usp=sharing)|Poster session ([gather town link](https://app.gather.town/app/kXW69QBLS5oiqKBN/Poster%20Session%20CSNLP23))|
--->
+|&nbsp;Voluntary|&nbsp;24.05&nbsp;|Project discussion 2|Project progress, problems, whole storyline|[Schedule (TBD)]()|All TAs|
+|&nbsp;13|&nbsp;31.05&nbsp;|<b>Pragmatics</b>|1. [Pragmatic Language Interpretation as Probabilistic Inference](http://langcog.stanford.edu/papers_new/goodman-2016-underrev.pdf) <br> 2. [Rational speech act models of pragmatic reasoning in reference games](https://psyarxiv.com/f9y6b/)|Assignment 2 due|
+|&nbsp;Voluntary|&nbsp;31.05&nbsp;|Assignment 2  review (hint)|||All TAs|
+||&nbsp;21.06&nbsp;|||Assignment 2 grade out <br>Project report due|
+||&nbsp;12.07&nbsp;||[Schedule (TBD)]()|Poster session|
 
 
 
@@ -100,7 +97,7 @@ You can ask questions on [moodle](https://moodle-app2.let.ethz.ch/). Please post
 |:--|:--|
 |Lecturer| [Mrinmaya Sachan](http://www.mrinmaya.io/)|
 |Guest Lecturers|[Avinava Dubey]([https://research.google/people/ManzilZaheer/](https://sites.google.com/site/kumaravinavadubey/home))|
-|Teaching Assistants| [Shehzaad Dhuliawala](https://people.cs.umass.edu/~sdhuliawala/),&nbsp; [Yifan Hou](https://yifan-h.github.io/),&nbsp; [Sankalan Pal Chowdhury](https://www.mrinmaya.io/team/#:~:text=Sankalan%20Pal%20Chowdhury)|
+|Teaching Assistants| [Shehzaad Dhuliawala](https://people.cs.umass.edu/~sdhuliawala/),&nbsp; [Yifan Hou](https://yifan-h.github.io/),&nbsp; [Sankalan Pal Chowdhury](https://www.mrinmaya.io/team/#:~:text=Sankalan%20Pal%20Chowdhury),&nbsp; Tianyang Xu|
 
 
 ___
