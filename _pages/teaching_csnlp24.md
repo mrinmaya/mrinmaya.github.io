@@ -59,7 +59,7 @@ ___
 |&nbsp;7|&nbsp;19.04&nbsp;|<b>Modelling and tracking entities:</b> NER, coreference and information extraction (entity and relation extraction)|1. [End-to-end Neural Coreference Resolution](https://arxiv.org/abs/1707.07045) <br> 2. [Improving Coreference Resolution by Learning Entity-Level Distributed Representations](https://aclanthology.org/P16-1061/)||
 |&nbsp;Voluntary|&nbsp;19.04&nbsp;|Cluster usage (Guidelines)|||Shehzaad|
 |&nbsp;8|&nbsp;26.04&nbsp;|<b>Formal Representations of Language Meaning</b>|1.[Compositional semantic parsing on semi-structured tables](https://arxiv.org/abs/1508.00305) <br> 2.[Supertagging With LSTMs](https://aclanthology.org/N16-1027/)|Assignment 1 due (28.04) <br>Assignment 2 release (28.04) <br>Project proposal grade out|
-|&nbsp;Voluntary |&nbsp;26.04&nbsp;|Project proposal grade summary <br>Assignment 1 review (hint)|||All TAs|
+|&nbsp;Voluntary |&nbsp;26.04&nbsp;|Assignment 1 QA <br> Project QA (optional)|||All TAs|
 |&nbsp;9|&nbsp;03.05&nbsp;|<b>Transformers and Contextual Word Representations</b> (BERT, etc.) <br><br> Guest lecture by Avinava Dubey (Google)|1. [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062) (Only cover the idea of sparse attention: don’t need to cover turing completeness and the theoretical results)) <br> 2. [BERT rediscovers the classical NLP pipeline](https://arxiv.org/abs/1905.05950)||
 |&nbsp;Voluntary|&nbsp;03.05&nbsp;|Optional|schedule meeting with TA if necesary|||
 |&nbsp;10|&nbsp;10.05&nbsp;|<b>Question Answering</b>|<br>1. [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051) <br> 2. [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300)||
@@ -69,7 +69,7 @@ ___
 |&nbsp;12|&nbsp;24.05&nbsp;|<b>Language + {Knowledge, Vision, Action}</b>|1. [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164) <br> 2. [VisualBERT: A Simple and Performant Baseline for Vision and Language](https://arxiv.org/abs/1908.03557)|Project mid-term report due|
 |&nbsp;Voluntary|&nbsp;24.05&nbsp;|Project progress discussion 2|Project progress, problems, whole storyline<br>[Schedule (TBD)]()||All TAs|
 |&nbsp;13|&nbsp;31.05&nbsp;|<b>Pragmatics</b>|1. [Pragmatic Language Interpretation as Probabilistic Inference](http://langcog.stanford.edu/papers_new/goodman-2016-underrev.pdf) <br> 2. [Rational speech act models of pragmatic reasoning in reference games](https://psyarxiv.com/f9y6b/)|Assignment 2 due|
-|&nbsp;Voluntary|&nbsp;31.05&nbsp;|-|||All TAs|
+|&nbsp;Voluntary|&nbsp;31.05&nbsp;|Optional|||All TAs|
 ||&nbsp;21.06&nbsp;|||Assignment 2 grade out <br>Project report due|
 ||&nbsp;12.07&nbsp;||[Schedule (TBD)]()|Poster session|
 
