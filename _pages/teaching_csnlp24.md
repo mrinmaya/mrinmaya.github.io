@@ -65,11 +65,11 @@ ___
 |&nbsp;10|&nbsp;10.05&nbsp;|<b>Question Answering</b>|<br>1. [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051) <br> 2. [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300)||
 |&nbsp;Voluntary|&nbsp;10.05&nbsp;|Huggingface and Transformers|<br>1. [Huggingface](https://huggingface.co/)||Sankalan|
 |&nbsp;11|&nbsp;17.05&nbsp;|<b>Natural Language Generation</b> <br><br> Case Study: Summarization and Conversation Modelling |1. [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> 2. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) |Assignment 1 grade out|
-|&nbsp;Voluntary|&nbsp;17.05&nbsp;|Assignment 1 grade summary <br> Project progress discussion 1 |Project progress, problems, whole storyline<br>[Schedule (TBD)]()||All TAs|
+|&nbsp;Voluntary|&nbsp;17.05&nbsp;|Project progress discussion 1 |Project progress, problems, whole storyline<br>[Schedule (TBD)]()||All TAs|
 |&nbsp;12|&nbsp;24.05&nbsp;|<b>Language + {Knowledge, Vision, Action}</b>|1. [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164) <br> 2. [VisualBERT: A Simple and Performant Baseline for Vision and Language](https://arxiv.org/abs/1908.03557)|Project mid-term report due|
 |&nbsp;Voluntary|&nbsp;24.05&nbsp;|Project progress discussion 2|Project progress, problems, whole storyline<br>[Schedule (TBD)]()||All TAs|
 |&nbsp;13|&nbsp;31.05&nbsp;|<b>Pragmatics</b>|1. [Pragmatic Language Interpretation as Probabilistic Inference](http://langcog.stanford.edu/papers_new/goodman-2016-underrev.pdf) <br> 2. [Rational speech act models of pragmatic reasoning in reference games](https://psyarxiv.com/f9y6b/)|Assignment 2 due|
-|&nbsp;Voluntary|&nbsp;31.05&nbsp;|Assignment 2  review (hint)|||All TAs|
+|&nbsp;Voluntary|&nbsp;31.05&nbsp;|-|||All TAs|
 ||&nbsp;21.06&nbsp;|||Assignment 2 grade out <br>Project report due|
 ||&nbsp;12.07&nbsp;||[Schedule (TBD)]()|Poster session|
 
