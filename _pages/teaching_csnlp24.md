@@ -68,7 +68,7 @@ ___
 |&nbsp;Voluntary|&nbsp;17.05&nbsp;|Project progress discussion 1 |Project progress, problems, whole storyline<br>[Schedule (TBD)]()||All TAs|
 |&nbsp;12|&nbsp;24.05&nbsp;|<b>Language + {Knowledge, Vision, Action}</b>|1. [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164) <br> 2. [VisualBERT: A Simple and Performant Baseline for Vision and Language](https://arxiv.org/abs/1908.03557)|Project mid-term report due|
 |&nbsp;Voluntary|&nbsp;24.05&nbsp;|Project progress discussion 2|Project progress, problems, whole storyline<br>[Schedule (TBD)]()||All TAs|
-|&nbsp;13|&nbsp;31.05&nbsp;|<b>Pragmatics</b>|1. [Pragmatic Language Interpretation as Probabilistic Inference](http://langcog.stanford.edu/papers_new/goodman-2016-underrev.pdf) <br> 2. [Rational speech act models of pragmatic reasoning in reference games](https://psyarxiv.com/f9y6b/)|Assignment 2 due|
+|&nbsp;13|&nbsp;31.05&nbsp;|<b>Pragmatics</b>|1. [Pragmatic Language Interpretation as Probabilistic Inference](http://langcog.stanford.edu/papers_new/goodman-2016-underrev.pdf) <br> 2. [Rational speech act models of pragmatic reasoning in reference games](https://psyarxiv.com/f9y6b/)|Assignment 2 due (01.06)|
 |&nbsp;Voluntary|&nbsp;31.05&nbsp;|Optional|||All TAs|
 ||&nbsp;21.06&nbsp;|||Assignment 2 grade out <br>Project report due|
 ||&nbsp;12.07&nbsp;||[Schedule (TBD)]()|Poster session|
