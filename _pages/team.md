@@ -80,7 +80,7 @@ permalink: /team/
 {% endif %}
 
 
-
+# Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -147,7 +147,7 @@ permalink: /team/
 {% endif %}
 
 
-
+# Alumni Members
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
