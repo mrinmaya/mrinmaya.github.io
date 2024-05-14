@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# Staffs
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -94,7 +94,6 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <div style="overflow: hidden">
-  <h4>{{ member.name }}</h4>
   <h4><a href="{{member.link}}">{{ member.name }}</a></h4>
   <i>{{ member.info }}</i> <!--<br>email: <{{ member.email }}></i> -->
   {% if member.hobbies %}
@@ -160,7 +159,6 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
   <h4><a href="{{member.link}}">{{ member.name }}</a></h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   {% if member.hobbies %}
