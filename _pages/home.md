@@ -12,48 +12,21 @@ permalink: /
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
     </ol>
 
-  <!-- Full-width images with number and caption text -->
+  <!-- Items -->
   <div class="carousel-inner" markdown="0">
-    <div class="item active">1 / 8</div>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6419.jpg" alt="Slide 1">
-    <div class="text">LRE</div>
+    <div class="item active">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6419.jpg" alt="Slide 1" />
+    </div>
+    <div class="item">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6411.jpg" alt="Slide 2" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6409.jpg" alt="Slide 3" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6405.jpg" alt="Slide 4" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6402.jpg" alt="Slide 5" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider1.jpg" alt="Slide 6" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider2.jpg" alt="Slide 7" />
+      <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider3.jpg" alt="Slide 8" />
+    </div>
   </div>
-  <div class="carousel-inner" markdown="0">
-    <div class="item active">2 / 8</div>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6411.jpg" alt="Slide 2">
-    <div class="text">LRE</div>
-  </div>
-  <div class="carousel-inner" markdown="0">
-    <div class="item active">3 / 8</div>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6409.jpg" alt="Slide 3">
-    <div class="text">LRE</div>
-  </div>
-  <div class="carousel-inner" markdown="0">
-    <div class="item active">4 / 8</div>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6405.jpg" alt="Slide 4">
-    <div class="text">LRE</div>
-  </div>
-  <div class="carousel-inner" markdown="0">
-    <div class="item active">5 / 8</div>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6402.jpg" alt="Slide 5">
-    <div class="text">LRE</div>
-  </div>
-  <div class="carousel-inner" markdown="0">
-    <div class="item active">6 / 8</div>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider1.jpg" alt="Slide 6">
-    <div class="text">LRE</div>
-  </div>
-  <div class="carousel-inner" markdown="0">
-    <div class="item active">7 / 8</div>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider2.jpg" alt="Slide 7">
-    <div class="text">LRE</div>
-  </div>
-  <div class="carousel-inner" markdown="0">
-    <div class="item active">8 / 8</div>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider3.jpg" alt="Slide 8">
-    <div class="text">LRE</div>
-  </div>
-
 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
