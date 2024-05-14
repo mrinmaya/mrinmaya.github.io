@@ -95,6 +95,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <div style="overflow: hidden">
   <h4>{{ member.name }}</h4>
+  <h4><a href="{{member.link}}">{{ member.name }}</a></h4>
   <i>{{ member.info }}</i> <!--<br>email: <{{ member.email }}></i> -->
   {% if member.hobbies %}
   Hobbies: {{ member.hobbies}}
@@ -160,6 +161,7 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
+  <h4><a href="{{member.link}}">{{ member.name }}</a></h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   {% if member.hobbies %}
   Hobbies: {{ member.hobbies}}
