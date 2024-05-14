@@ -15,10 +15,51 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider1.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6419.jpg" alt="Slide 1" />
         </div>
     </div>
 
+    <div class="carousel-inner" markdown="0">
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6411.jpg" alt="Slide 2" />
+        </div>
+    </div>
+
+    <div class="carousel-inner" markdown="0">
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6409.jpg" alt="Slide 3" />
+        </div>
+    </div>
+
+    <div class="carousel-inner" markdown="0">
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6405.jpg" alt="Slide 4" />
+        </div>
+    </div>
+
+    <div class="carousel-inner" markdown="0">
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6402.jpg" alt="Slide 5" />
+        </div>
+    </div>
+
+    <div class="carousel-inner" markdown="0">
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider1.jpg" alt="Slide 6" />
+        </div>
+    </div>
+
+    <div class="carousel-inner" markdown="0">
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider1.jpg" alt="Slide 7" />
+        </div>
+    </div>
+
+    <div class="carousel-inner" markdown="0">
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider1.jpg" alt="Slide 8" />
+        </div>
+    </div>
 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
