@@ -154,8 +154,18 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
-  <br>Hobbies: {{ member.hobbies}}</i>
-  <ul style="overflow: hidden">
+  {% if member.hobbies %}
+  Hobbies: {{ member.hobbies}}
+  {% endif %}
+  {% if member.startyear %}
+  Start year: {{ member.startyear}}
+  {% endif %}
+  {% if member.researchinterest %}
+  Research interest: {{ member.researchinterest}}
+  {% endif %}
+  {% if member.nextpos %}
+  Future Positions: {{ member.nextpos}}
+  {% endif %}
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>

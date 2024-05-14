@@ -175,25 +175,6 @@
   education1: ETH Zürich
   education2: IIT Delhi
 
-- name: Carl Allen
-  photo: na.jpg
-  link: https://carl-allen.github.io/
-  info: PostDoctoral Fellow, ETH AI Centre
-  hobbies: Travelling, surfing, hiking, cycling
-  number_educ: 2
-  researchinterest: mathematical understanding of machine learning, representation and latent variable modelling
-  education1: MS Oxford, Edinburgh
-  education2: PhD Edinburgh
-
-- name: Ethan Wilcox
-  photo: ethan.jpeg
-  link: https://wilcoxeg.github.io/
-  info: Postdoctoral Researcher
-  startyear: 2022
-  number_educ: 2
-  researchinterest: how people process language as they read; how they make inferences about language structure during language learning
-  education1: BS Stanford University
-  education2: PhD Harvard University
 
 - name: Xiaoyu Zhang
   photo: xiaoyu.JPG

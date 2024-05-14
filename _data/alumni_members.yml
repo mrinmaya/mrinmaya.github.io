@@ -1,1 +1,11 @@
+- name: Carl Allen
+  link: https://carl-allen.github.io/
+  info: Postdoc, joint with Ryan Cotterell
+  hobbies: Travelling, surfing, hiking, cycling
+  researchinterest: mathematical understanding of machine learning, representation and latent variable modelling
 
+- name: Ethan Wilcox
+  link: https://wilcoxeg.github.io/
+  info: Postdoctoral Researcher
+  startyear: 2022
+  researchinterest: how people process language as they read; how they make inferences about language structure during language learning
