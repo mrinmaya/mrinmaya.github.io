@@ -13,43 +13,43 @@ permalink: /
     </ol>
 
   <!-- Full-width images with number and caption text -->
-  <div class="mySlides fade">
-    <div class="numbertext">1 / 8</div>
+  <div class="carousel-inner" markdown="0">
+    <div class="item active">1 / 8</div>
     <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6419.jpg" alt="Slide 1">
     <div class="text">LRE</div>
   </div>
-  <div class="mySlides fade">
-    <div class="numbertext">2 / 8</div>
+  <div class="carousel-inner" markdown="0">
+    <div class="item active">2 / 8</div>
     <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6411.jpg" alt="Slide 2">
     <div class="text">LRE</div>
   </div>
-  <div class="mySlides fade">
-    <div class="numbertext">3 / 8</div>
+  <div class="carousel-inner" markdown="0">
+    <div class="item active">3 / 8</div>
     <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6409.jpg" alt="Slide 3">
     <div class="text">LRE</div>
   </div>
-  <div class="mySlides fade">
-    <div class="numbertext">4 / 8</div>
+  <div class="carousel-inner" markdown="0">
+    <div class="item active">4 / 8</div>
     <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6405.jpg" alt="Slide 4">
     <div class="text">LRE</div>
   </div>
-  <div class="mySlides fade">
-    <div class="numbertext">5 / 8</div>
+  <div class="carousel-inner" markdown="0">
+    <div class="item active">5 / 8</div>
     <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6402.jpg" alt="Slide 5">
     <div class="text">LRE</div>
   </div>
-  <div class="mySlides fade">
-    <div class="numbertext">6 / 8</div>
+  <div class="carousel-inner" markdown="0">
+    <div class="item active">6 / 8</div>
     <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider1.jpg" alt="Slide 6">
     <div class="text">LRE</div>
   </div>
-  <div class="mySlides fade">
-    <div class="numbertext">7 / 8</div>
+  <div class="carousel-inner" markdown="0">
+    <div class="item active">7 / 8</div>
     <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider2.jpg" alt="Slide 7">
     <div class="text">LRE</div>
   </div>
-  <div class="mySlides fade">
-    <div class="numbertext">8 / 8</div>
+  <div class="carousel-inner" markdown="0">
+    <div class="item active">8 / 8</div>
     <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider3.jpg" alt="Slide 8">
     <div class="text">LRE</div>
   </div>
