@@ -19,12 +19,25 @@ permalink: /
     </div>
     <div class="item">
       <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6411.jpg" alt="Slide 2" />
+    </div>
+    <div class="item">
       <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6409.jpg" alt="Slide 3" />
+    </div>
+    <div class="item">
       <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6405.jpg" alt="Slide 4" />
+    </div>
+    <div class="item">
       <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6402.jpg" alt="Slide 5" />
+    </div>
+    <div class="item">
       <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider1.jpg" alt="Slide 6" />
+    </div>
+    <div class="item">
       <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider2.jpg" alt="Slide 7" />
+    </div>
+    <div class="item">
       <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider3.jpg" alt="Slide 8" />
+    </div>
     </div>
   </div>
 
