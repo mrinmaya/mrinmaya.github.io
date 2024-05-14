@@ -16,13 +16,6 @@ permalink: /
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6419.jpg" alt="Slide 1" />
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6411.jpg" alt="Slide 2" />
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6409.jpg" alt="Slide 3" />
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6405.jpg" alt="Slide 4" />
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/DSCF6402.jpg" alt="Slide 5" />
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider1.jpg" alt="Slide 6" />
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider1.jpg" alt="Slide 7" />
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider1.jpg" alt="Slide 8" />
         </div>
     </div>
 
