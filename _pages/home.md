@@ -35,9 +35,6 @@ permalink: /
     <div class="item">
       <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider2.jpg" alt="Slide 7" />
     </div>
-    <div class="item">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider3.jpg" alt="Slide 8" />
-    </div>
   </div>
 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
