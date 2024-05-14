@@ -1,9 +1,18 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+- name: Quynh Anh Nguyen
+  photo: foto-square.jpg
+  link: 
+  info: Master Student
+  hobbies: Philosophy, Psychology, Meditation
+  number_educ: 2
+  education1: MS University of Milan, ETH Zürich (exchange)
+  education2: BS FTU Vietnam
+
+- name: Vansh Gupta
+  photo: BatchPhoto.png
+  link: https://www.linkedin.com/in/vg1/
+  info: Master Student
+  hobbies: Badminton, Cinema, Taekwondo, Travelling
+  researchinterest: Interpretability, AI Safety, AI for Social Good
+  number_educ: 2
+  education1: ETH Zürich
+  education2: IIT Delhi

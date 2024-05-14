@@ -95,8 +95,16 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <div style="overflow: hidden">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
-  <br>Hobbies: {{ member.hobbies}}</i>
+  <i>{{ member.info }}</i> <!--<br>email: <{{ member.email }}></i> -->
+  {% if member.hobbies %}
+  Hobbies: {{ member.hobbies}}
+  {% endif %}
+  {% if member.startyear %}
+  Start year: {{ member.startyear}}
+  {% endif %}
+  {% if member.researchinterest %}
+  Research interest: {{ member.researchinterest}}
+  {% endif %}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -151,7 +159,6 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   {% if member.hobbies %}
@@ -166,6 +173,8 @@ permalink: /team/
   {% if member.nextpos %}
   Future Positions: {{ member.nextpos}}
   {% endif %}
+
+  <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
