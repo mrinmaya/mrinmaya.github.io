@@ -72,7 +72,6 @@
   photo: Jakub.jfif
   link: https://macina.sk/
   info: PhD Student, ETH AI center fellow (co-advised with Manu Kapur)
-  startyear: 2021
   researchinterest: NLP in education, generative models
   hobbies: Football, Mountain biking, Hiking
   number_educ: 2
@@ -83,7 +82,6 @@
   photo: andreas.jpg
   link: https://opedal.github.io/
   info: PhD Student, CLS fellow (co-advised with Bernhard Schölkopf)
-  startyear: 2022
   researchinterest: Cognitive modeling, formal languages, interpretability, reasoning
   hobbies: Skiing, Traveling
   number_educ: 2
@@ -100,13 +98,10 @@
   education1: MS ETH Zurich
   education2: BS Koc University
 
-
-
 - name: Kumar Shridhar
   photo: Shridhar.jpg
   link: https://kumar-shridhar.github.io/
   info: PhD Student
-  startyear: 2021
   researchinterest: Generative models, entity linking, maths word problem solving
   hobbies: Tennis, Traveling
   number_educ: 1
@@ -125,7 +120,6 @@
   photo: vilem.jpeg
   link: https://vilda.net/
   info: PhD Student
-  startyear: 2022
   researchinterest: Non-mainstream MT, creative NLP, fusion-/retrieval-enhanced NLP
   hobbies: Electric guitar, boardgames, literature
   number_educ: 2
@@ -141,21 +135,3 @@
   education1: MS Zhejiang University
   education2: PhD University of California, Davis
 
-  - name: Quynh Anh Nguyen
-  photo: foto-square.jpg
-  link: 
-  info: Master Student
-  hobbies: Philosophy, Psychology, Meditation
-  number_educ: 2
-  education1: MS University of Milan, ETH Zürich (exchange)
-  education2: BS FTU Vietnam
-
-- name: Vansh Gupta
-  photo: BatchPhoto.png
-  link: https://www.linkedin.com/in/vg1/
-  info: Master Student
-  hobbies: Badminton, Cinema, Taekwondo, Travelling
-  researchinterest: Interpretability, AI Safety, AI for Social Good
-  number_educ: 2
-  education1: ETH Zürich
-  education2: IIT Delhi

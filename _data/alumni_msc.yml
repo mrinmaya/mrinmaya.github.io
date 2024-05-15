@@ -1,21 +1,18 @@
-- name: Maarten Leeuwenhoek, Spring 2015
+- name: Quynh Anh Nguyen
+  photo: foto-square.jpg
+  link: 
+  info: Master Student
+  hobbies: Philosophy, Psychology, Meditation
+  number_educ: 2
+  education1: MS University of Milan, ETH Zürich (exchange)
+  education2: BS FTU Vietnam
 
-- name: Koen M Bastiaans, Spring 2015
-
-- name: Farshaad Hoeseni, Fall 2015
-
-- name: Oliver Ostojic, Spring 2016
-
-- name: Tjerk Benschop, Spring 2016
-
-- name: Bert Visscher, Fall 2017
-
-- name: Ahmad Jamalzada, Fall 2017
-
-- name: Corne Koks, Fall 2018
-
-- name: Damian Bouwmeester, Summer 2019
-
-- name: Rosanne Wijgman, Fall 2019
-
-- name: Amber Mozes, Fall 2020
+- name: Vansh Gupta
+  photo: BatchPhoto.png
+  link: https://www.linkedin.com/in/vg1/
+  info: Master Student
+  hobbies: Badminton, Cinema, Taekwondo, Travelling
+  researchinterest: Interpretability, AI Safety, AI for Social Good
+  number_educ: 2
+  education1: ETH Zürich
+  education2: IIT Delhi
