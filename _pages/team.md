@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-# Staffs
+# Lab Members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -80,7 +80,7 @@ permalink: /team/
 {% endif %}
 
 
-# Students
+# Affiliated Members
 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -171,7 +171,7 @@ permalink: /team/
   Research interest: {{ member.researchinterest}}
   {% endif %}
   {% if member.nextpos %}
-  Future Positions: {{ member.nextpos}}
+  Future Position: {{ member.nextpos}}
   {% endif %}
 
   <ul style="overflow: hidden">

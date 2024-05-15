@@ -1,18 +1,29 @@
-- name: Quynh Anh Nguyen
-  photo: foto-square.jpg
-  link: 
-  info: Master Student
-  hobbies: Philosophy, Psychology, Meditation
+- name: Nico Daheim
+  photo: 37595556.jpg
+  link: https://ndaheim.github.io/
+  info: PhD Student, ELLIS fellow (Primary advisor&#58; Iryna Gurevych)
+  startyear: 2022
+  researchinterest: Dialog systems, natural language generation, retrieval models
+  hobbies: Fitness, Football, Hiking
   number_educ: 2
-  education1: MS University of Milan, ETH Zürich (exchange)
-  education2: BS FTU Vietnam
+  education1: MS RWTH Aachen University
+  education2: BS University of Koblenz
 
-- name: Vansh Gupta
-  photo: BatchPhoto.png
-  link: https://www.linkedin.com/in/vg1/
-  info: Master Student
-  hobbies: Badminton, Cinema, Taekwondo, Travelling
-  researchinterest: Interpretability, AI Safety, AI for Social Good
+- name: Zhijing Jin
+  photo: Zhijing.png
+  link: https://zhijing-jin.com/fantasy/
+  info: PhD Student, Ellis fellow (Primary advisor&#58; Bernhard Schölkopf)
+  startyear: 2020
+  researchinterest: CausalNLP, NLP for Social Good, robustness, AI safety
+  hobbies: Kayaking, hiking, learning languages
+  number_educ: 1
+  education1: BS University of Hong Kong
+
+- name: Javier Rando
+  photo: prof_pic.jpg
+  link: https://javirando.com/
+  info: PhD Student, ETH AI Center fellow (co-advised with Florian Tramèr)
+  hobbies: travelling, basketball
   number_educ: 2
-  education1: ETH Zürich
-  education2: IIT Delhi
+  education1: MSc ETH Zurich
+  education2: BSc Pompeu Fabra University
