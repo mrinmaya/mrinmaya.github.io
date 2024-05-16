@@ -13,6 +13,15 @@
   info: Administrative Assistant
 
 
+- name: Xiaoyu Zhang
+  photo: xiaoyu.JPG
+  link: https://xiaoyu-zhang-betsy.github.io/homepage/
+  info: PostDoc Fellow, ETH AI center
+  number_educ: 2
+  researchinterest: Visual Analytics, Text & Knowledge Visualization, HCI, Human-AI Collaboration, Human-Centered AI, Explainable AI
+  education1: MS Zhejiang University
+  education2: PhD University of California, Davis
+
 - name: Sankalan Pal Chowdhury
   photo: Sankalan.jpg
   link: 
@@ -125,13 +134,4 @@
   number_educ: 2
   education1: MS Saarland + Groningen University
   education2: BS Charles University
-
-- name: Xiaoyu Zhang
-  photo: xiaoyu.JPG
-  link: https://xiaoyu-zhang-betsy.github.io/homepage/
-  info: PostDoc Fellow, ETH AI center
-  number_educ: 2
-  researchinterest: Visual Analytics, Text & Knowledge Visualization, HCI, Human-AI Collaboration, Human-Centered AI, Explainable AI
-  education1: MS Zhejiang University
-  education2: PhD University of California, Davis
 
