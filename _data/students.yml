@@ -17,17 +17,6 @@
   number_educ: 1
   education1: BS University of Hong Kong
 
-
-- name: Andrianos Michail
-  photo: Andrianos_Michail_Photo.jpg
-  link: https://www.cl.uzh.ch/de/about-us/people/team/compling/amichail.html
-  info: PhD Student (Primary advisor&#58; Rico Sennrich)
-  researchinterest: Multi Lingual Semantic Representations, Cross Lingual Search, Low Resource languages, NLP for historical texts
-  hobbies: Table tennis, Swimming, board games
-  number_educ: 2
-  education1: MS University of Zurich
-  education2: BS University of Sheffield
-
 - name: Javier Rando
   photo: prof_pic.jpg
   link: https://javirando.com/
