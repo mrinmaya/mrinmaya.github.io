@@ -71,7 +71,7 @@ ___
 |&nbsp;13|&nbsp;31.05&nbsp;|<b>Language + {Knowledge, Vision, Action}</b>|1. [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164) <br> 2. [VisualBERT: A Simple and Performant Baseline for Vision and Language](https://arxiv.org/abs/1908.03557)|Assignment 2 due (01.06)|
 |&nbsp;Voluntary|&nbsp;31.05&nbsp;|Optional|||All TAs|
 ||&nbsp;21.06&nbsp;|||Assignment 2 grade out <br>Project report due|
-||&nbsp;12.07&nbsp;||[Schedule (TBD)](https://docs.google.com/spreadsheets/d/1w0UT9sHk4E-kvI694ZEa52BaNq4-JPT9ioLvXBsA8eA/edit?usp=sharing), and link of the [GatherTown](https://app.gather.town/app/0reUlM1lAvP9eESS/Poster%20Session%20CSNLP24)|Poster session|
+||&nbsp;12.07&nbsp;||[Schedule](https://docs.google.com/spreadsheets/d/1w0UT9sHk4E-kvI694ZEa52BaNq4-JPT9ioLvXBsA8eA/edit?usp=sharing), and link of the [GatherTown](https://app.gather.town/app/0reUlM1lAvP9eESS/Poster%20Session%20CSNLP24)|Poster session|
 
 
 
