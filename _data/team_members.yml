@@ -45,7 +45,7 @@
 - name: Shehzaad Dhuliawala
   photo: Shehzaad.jpg
   link: https://shehzaadzd.github.io/
-  info: PhD Student, IBM fellow
+  info: PhD Student
   hobbies: Reading, boardgames, hiking
   number_educ: 2
   education1: MS UMass Amherst
@@ -59,24 +59,6 @@
   number_educ: 2
   education1: MS CUHK
   education2: BS HUST
-
-
-
-- name: Jiaoda Li
-  photo: Jiaoda.jpg
-  link: 
-  info: PhD Student, ETH AI center fellow (co-advised with Ryan Cotterell)
-  hobbies: Movie, Table tennis, Museum
-  number_educ: 2
-  education1: MS ETH Zürich
-  education2: BS City University of Hong Kong
-
-- name: Tianyu Liu
-  photo: tianyu.jpg
-  link: 
-  info: PhD Student (co-advised with Ryan Cotterell)
-  number_educ: 1
-  education1: BS Peking University
 
 - name: Jakub Macina
   photo: Jakub.jfif
