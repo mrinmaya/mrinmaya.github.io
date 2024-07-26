@@ -1,7 +1,7 @@
 - name: Nico Daheim
   photo: 37595556.jpg
   link: https://ndaheim.github.io/
-  info: PhD Student, ELLIS fellow (Primary advisor&#58; Iryna Gurevych)
+  info: PhD Student, ELLIS PhD (Primary advisor&#58; Iryna Gurevych)
   researchinterest: Dialog systems, natural language generation, retrieval models
   hobbies: Fitness, Football, Hiking
   number_educ: 2
@@ -11,7 +11,7 @@
 - name: Zhijing Jin
   photo: Zhijing.png
   link: https://zhijing-jin.com/fantasy/
-  info: PhD Student, Ellis fellow (Primary advisor&#58; Bernhard Schölkopf)
+  info: PhD Student, Ellis PhD (Primary advisor&#58; Bernhard Schölkopf)
   researchinterest: CausalNLP, NLP for Social Good, robustness, AI safety
   hobbies: Kayaking, hiking, learning languages
   number_educ: 1
