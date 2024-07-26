@@ -16,23 +16,3 @@
   hobbies: Kayaking, hiking, learning languages
   number_educ: 1
   education1: BS University of Hong Kong
-
-- name: Javier Rando
-  photo: prof_pic.jpg
-  link: https://javirando.com/
-  info: PhD Student, ETH AI Center fellow (Primary advisor&#58; Florian Tramèr)
-  hobbies: travelling, basketball
-  number_educ: 2
-  education1: MSc ETH Zurich
-  education2: BSc Pompeu Fabra University
-
-
-- name: Xiaotian Su
-  photo: xiaotiansu.JPG
-  link: https://xiaotiansu.github.io/
-  info: PhD Student (Primary advisor&#58; April Wang)
-  researchinterest: Human-AI collaboration, AI-assisted Programming
-  hobbies: Yoga, Jazz dance, Photography
-  number_educ: 1
-  education1: MSc EPFL
-
