@@ -63,7 +63,7 @@
 - name: Jakub Macina
   photo: Jakub.jfif
   link: https://macina.sk/
-  info: PhD Student, ETH AI center fellow (co-advised with Manu Kapur)
+  info: PhD Student, ETH AI center (co-advised with Manu Kapur)
   researchinterest: NLP in education, generative models
   hobbies: Football, Mountain biking, Hiking
   number_educ: 2
@@ -73,7 +73,7 @@
 - name: Andreas Opedal
   photo: andreas.jpg
   link: https://opedal.github.io/
-  info: PhD Student, CLS fellow (co-advised with Bernhard Schölkopf)
+  info: PhD Student, CLS (co-advised with Bernhard Schölkopf)
   researchinterest: Cognitive modeling, formal languages, interpretability, reasoning
   hobbies: Skiing, Traveling
   number_educ: 2
@@ -103,7 +103,7 @@
 - name: Alessandro Stolfo
   photo: Alessandro.jpg
   link: https://alestolfo.github.io/
-  info: PhD Student, CYD Fellow
+  info: PhD Student
   hobbies: Football, Skiing, Drumming
   number_educ: 2
   education1: MS ETH Zurich
@@ -113,7 +113,7 @@
 - name: Junling Wang
   photo: profile2.png
   link: https://junlingwang0512.github.io/
-  info: PhD Student, ETH AI center fellow (co-advised with April Wang)
+  info: PhD Student, ETH AI center (co-advised with April Wang)
   researchinterest: NLP in education, generative models, human-computer interaction
   hobbies: Table Tennis, Biking, Dragon Dance, Cooking
   number_educ: 2
