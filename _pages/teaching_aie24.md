@@ -49,7 +49,7 @@ ___
 ## Course Schedule
 
 |:--|:--|:--|:--|:--|
-|&nbsp;<b>Lecture</b>|&nbsp;<b>Date</b>|<b>Topic</b>|<b>Course Materials</b>| <b>Events</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|&nbsp;<b>Lecture</b>|&nbsp;&nbsp;&nbsp;<b>Date</b>|<b>Topic</b>|<b>Course Materials</b>| <b>Events</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |&nbsp;&nbsp;1|&nbsp;&nbsp;19.09.24&nbsp;&nbsp;&nbsp;&nbsp;|<b>Introduction</b>|||
 |&nbsp;&nbsp;2|&nbsp;&nbsp;03.10.24&nbsp;|<b>Classical EDM</b><br>(Supervised and Unsupervised Learning for Learning Analytics)|[Analyzing the longitudinal K-12 grading histories of entire cohorts of students: Grades, data driven decision making, dropping out and hierarchical cluster analysis](https://openpublishing.library.umass.edu/pare/article/1554/galley/1505/view/)||
 |&nbsp;&nbsp;3|&nbsp;&nbsp;17.10.24&nbsp;|<b>Generative AI for Education</b><br>(LLMs + applications and opportunities)|[ChatGPT for Good? On Opportunities and Challenges of Large Language Models for Education](https://osf.io/preprints/edarxiv/5er8f)<br>[Towards Responsible Development of Generative AI for Education: An Evaluation-Driven Approach](https://arxiv.org/pdf/2407.12687)||
