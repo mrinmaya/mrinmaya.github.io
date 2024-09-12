@@ -6,7 +6,7 @@ sitemap: false
 permalink: /teaching
 ---
 
-## [Artifical Intelligence in Education (Autumn Semester 2024)]({{site.url}}{{site.baseurl}}/teaching_aied24)
+## [Artifical Intelligence in Education (Autumn Semester 2024)]({{site.url}}{{site.baseurl}}/teaching_aie24)
 #### <font color=gray>ETH Zürich, Autumn Semester 2024</font>: [Course catalog](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=182452&semkez=2024W&lang=en)
 
 ___
