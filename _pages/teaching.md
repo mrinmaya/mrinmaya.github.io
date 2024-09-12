@@ -6,6 +6,12 @@ sitemap: false
 permalink: /teaching
 ---
 
+## [Artifical Intelligence in Education (Autumn Semester 2024)]({{site.url}}{{site.baseurl}}/teaching_aied24)
+#### <font color=gray>ETH Zürich, Autumn Semester 2024</font>: [Course catalog](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=182452&semkez=2024W&lang=en)
+
+___
+
+
 ## [Computational Semantics for NLP (Spring Semester 2024)]({{site.url}}{{site.baseurl}}/teaching_csnlp24)
 #### <font color=gray>ETH Zürich, Spring Semester 2024</font>: [Course catalog](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=178278&semkez=2024S&ansicht=LEHRVERANSTALTUNGEN&lang=en)
 
