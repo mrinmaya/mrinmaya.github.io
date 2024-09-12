@@ -56,8 +56,7 @@ ___
 |&nbsp;4|&nbsp;31.10.24&nbsp;|<b>Content Generation for Education</b>|[Towards Process-Oriented, Modular, and Versatile Question Generation that Meets Educational Needs](https://arxiv.org/pdf/2205.00355)<br>[GECToR – Grammatical Error Correction: Tag, Not Rewrite](https://aclanthology.org/2020.bea-1.16.pdf)||
 |&nbsp;5|&nbsp;14.11.24&nbsp;|<b>Intelligent Tutoring Systems</b>|[Cognitive Tutors: Technology Bringing Learning Sciences to the Classroom](https://www.cs.cmu.edu/~aleven/Papers/2006/KoedingerCorbett2006.pdf)<br>[MathDial: A Dialogue Tutoring Dataset with Rich Pedagogical Properties Grounded in Math Reasoning Problems](https://aclanthology.org/2023.findings-emnlp.372.pdf)||
 |&nbsp;6|&nbsp;28.11.24&nbsp;|<b>Adaptivity and Personalization</b><br>(Learner Modeling, Knowledge Tracing)|[A Trainable Spaced Repetition Model for Language Learning](https://research.duolingo.com/papers/settles.acl16.pdf)<br>[Adaptive and Personalized Exercise Generation for Online Language Learning](https://aclanthology.org/2023.acl-long.567.pdf)||
-|&nbsp;7|&nbsp;12.12.24&nbsp;|<b>Human aspects of AIED</b><br>(Guest lecture)|[ReadingQizMaker: A Human-NLP Collaborative System that
-Supports Instructors to Design High-Qality Reading Qiz](https://web.eecs.umich.edu/~xwanghci/papers/CHI23-ReadingQizMaker.pdf)<br>[GenerativeStudents](https://arxiv.org/pdf/2405.11591)||
+|&nbsp;7|&nbsp;12.12.24&nbsp;|<b>Human aspects of AIED</b><br>(Guest lecture)|[ReadingQizMaker: A Human-NLP Collaborative System that Supports Instructors to Design High-Qality Reading Qiz](https://web.eecs.umich.edu/~xwanghci/papers/CHI23-ReadingQizMaker.pdf)<br>[Generative Students: Using LLM-Simulated Student Profiles to Support Question Item Evaluation](https://arxiv.org/pdf/2405.11591)||
 
 [//]: # ()
 [//]: # (## Discussion forum activity)
