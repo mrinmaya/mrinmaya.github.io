@@ -24,7 +24,7 @@ Students will be expected to:
 
 ___
 
-### **Grading**
+### **Grading (3 Credits)**
 This is a research driven, hands-on class. Your participation is important.
 
 The final assessment will be a combination of: 
@@ -41,8 +41,11 @@ No written exams! Our focus is on learning and continuous evaluation.
 
 **Discussion forum:** [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=17844) 
 
-**Textbooks:**
-We will not follow any particular textbook. We will draw material from a number of research papers.
+**Literature:**
+No textbook is required, but there will be regularly assigned readings from research literature, linked to the course website.
+
+**Prerequisites/Notice:**
+There are no prerequisites for this class. However, it will help if the student has taken an undergraduate or graduate level class in statistics, data science or machine learning. This class is appropriate for advanced undergraduates and master students in Computer Science as well as PhD students in other departments.
 
 ___
 
