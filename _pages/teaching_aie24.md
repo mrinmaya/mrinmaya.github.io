@@ -51,15 +51,36 @@ ___
 
 ## Course Schedule
 
+[//]: # ()
+[//]: # (|:--|:--|:--|:--|:--|)
+
+[//]: # (|&nbsp;<b>Lecture</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<b>Date</b>|<b>Topic</b>|<b>Course Materials</b>| <b>Events</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|)
+
+[//]: # (|&nbsp;&nbsp;1|&nbsp;19.09.24&nbsp;&nbsp;&nbsp;&nbsp;|<b>Introduction</b>|||)
+
+[//]: # (|&nbsp;&nbsp;2|&nbsp;03.10.24&nbsp;|<b>Classical EDM</b><br>&#40;Supervised and Unsupervised Learning for Learning Analytics&#41;|[Analyzing the longitudinal K-12 grading histories of entire cohorts of students: Grades, data driven decision making, dropping out and hierarchical cluster analysis]&#40;https://openpublishing.library.umass.edu/pare/article/1554/galley/1505/view/&#41;||)
+
+[//]: # (|&nbsp;&nbsp;3|&nbsp;17.10.24&nbsp;|<b>Generative AI for Education</b><br>&#40;LLMs + applications and opportunities&#41;|[ChatGPT for Good? On Opportunities and Challenges of Large Language Models for Education]&#40;https://osf.io/preprints/edarxiv/5er8f&#41;<br>[Towards Responsible Development of Generative AI for Education: An Evaluation-Driven Approach]&#40;https://arxiv.org/pdf/2407.12687&#41;||)
+
+[//]: # (|&nbsp;&nbsp;4|&nbsp;31.10.24&nbsp;|<b>Content Generation for Education</b>|[Towards Process-Oriented, Modular, and Versatile Question Generation that Meets Educational Needs]&#40;https://arxiv.org/pdf/2205.00355&#41;<br>[GECToR – Grammatical Error Correction: Tag, Not Rewrite]&#40;https://aclanthology.org/2020.bea-1.16.pdf&#41;||)
+
+[//]: # (|&nbsp;&nbsp;5|&nbsp;14.11.24&nbsp;|<b>Intelligent Tutoring Systems</b>|[Cognitive Tutors: Technology Bringing Learning Sciences to the Classroom]&#40;https://www.cs.cmu.edu/~aleven/Papers/2006/KoedingerCorbett2006.pdf&#41;<br>[MathDial: A Dialogue Tutoring Dataset with Rich Pedagogical Properties Grounded in Math Reasoning Problems]&#40;https://aclanthology.org/2023.findings-emnlp.372.pdf&#41;||)
+
+[//]: # (|&nbsp;&nbsp;6|&nbsp;28.11.24&nbsp;|<b>Adaptivity and Personalization</b><br>&#40;Learner Modeling, Knowledge Tracing&#41;|[A Trainable Spaced Repetition Model for Language Learning]&#40;https://research.duolingo.com/papers/settles.acl16.pdf&#41;<br>[Adaptive and Personalized Exercise Generation for Online Language Learning]&#40;https://aclanthology.org/2023.acl-long.567.pdf&#41;||)
+
+[//]: # (|&nbsp;&nbsp;7|&nbsp;12.12.24&nbsp;|<b>Human aspects of AIED</b><br>&#40;Guest lecture&#41;|[ReadingQizMaker: A Human-NLP Collaborative System that Supports Instructors to Design High-Qality Reading Qiz]&#40;https://web.eecs.umich.edu/~xwanghci/papers/CHI23-ReadingQizMaker.pdf&#41;<br>[Generative Students: Using LLM-Simulated Student Profiles to Support Question Item Evaluation]&#40;https://arxiv.org/pdf/2405.11591&#41;||)
+
+
 |:--|:--|:--|:--|:--|
 |&nbsp;<b>Lecture</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<b>Date</b>|<b>Topic</b>|<b>Course Materials</b>| <b>Events</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |&nbsp;&nbsp;1|&nbsp;19.09.24&nbsp;&nbsp;&nbsp;&nbsp;|<b>Introduction</b>|||
-|&nbsp;&nbsp;2|&nbsp;03.10.24&nbsp;|<b>Classical EDM</b><br>(Supervised and Unsupervised Learning for Learning Analytics)|[Analyzing the longitudinal K-12 grading histories of entire cohorts of students: Grades, data driven decision making, dropping out and hierarchical cluster analysis](https://openpublishing.library.umass.edu/pare/article/1554/galley/1505/view/)||
-|&nbsp;&nbsp;3|&nbsp;17.10.24&nbsp;|<b>Generative AI for Education</b><br>(LLMs + applications and opportunities)|[ChatGPT for Good? On Opportunities and Challenges of Large Language Models for Education](https://osf.io/preprints/edarxiv/5er8f)<br>[Towards Responsible Development of Generative AI for Education: An Evaluation-Driven Approach](https://arxiv.org/pdf/2407.12687)||
-|&nbsp;&nbsp;4|&nbsp;31.10.24&nbsp;|<b>Content Generation for Education</b>|[Towards Process-Oriented, Modular, and Versatile Question Generation that Meets Educational Needs](https://arxiv.org/pdf/2205.00355)<br>[GECToR – Grammatical Error Correction: Tag, Not Rewrite](https://aclanthology.org/2020.bea-1.16.pdf)||
-|&nbsp;&nbsp;5|&nbsp;14.11.24&nbsp;|<b>Intelligent Tutoring Systems</b>|[Cognitive Tutors: Technology Bringing Learning Sciences to the Classroom](https://www.cs.cmu.edu/~aleven/Papers/2006/KoedingerCorbett2006.pdf)<br>[MathDial: A Dialogue Tutoring Dataset with Rich Pedagogical Properties Grounded in Math Reasoning Problems](https://aclanthology.org/2023.findings-emnlp.372.pdf)||
-|&nbsp;&nbsp;6|&nbsp;28.11.24&nbsp;|<b>Adaptivity and Personalization</b><br>(Learner Modeling, Knowledge Tracing)|[A Trainable Spaced Repetition Model for Language Learning](https://research.duolingo.com/papers/settles.acl16.pdf)<br>[Adaptive and Personalized Exercise Generation for Online Language Learning](https://aclanthology.org/2023.acl-long.567.pdf)||
-|&nbsp;&nbsp;7|&nbsp;12.12.24&nbsp;|<b>Human aspects of AIED</b><br>(Guest lecture)|[ReadingQizMaker: A Human-NLP Collaborative System that Supports Instructors to Design High-Qality Reading Qiz](https://web.eecs.umich.edu/~xwanghci/papers/CHI23-ReadingQizMaker.pdf)<br>[Generative Students: Using LLM-Simulated Student Profiles to Support Question Item Evaluation](https://arxiv.org/pdf/2405.11591)||
+|&nbsp;&nbsp;2|&nbsp;03.10.24&nbsp;|<b>Classical EDM</b><br>(Supervised and Unsupervised Learning for Learning Analytics)|||
+|&nbsp;&nbsp;3|&nbsp;17.10.24&nbsp;|<b>Generative AI for Education</b><br>(LLMs + applications and opportunities)|||
+|&nbsp;&nbsp;4|&nbsp;31.10.24&nbsp;|<b>Content Generation for Education</b>|||
+|&nbsp;&nbsp;5|&nbsp;14.11.24&nbsp;|<b>Intelligent Tutoring Systems</b>|||
+|&nbsp;&nbsp;6|&nbsp;28.11.24&nbsp;|<b>Adaptivity and Personalization</b><br>(Learner Modeling, Knowledge Tracing)|||
+|&nbsp;&nbsp;7|&nbsp;12.12.24&nbsp;|<b>Human aspects of AIED</b><br>(Guest lecture)|||
+
 
 [//]: # ()
 [//]: # (## Discussion forum activity)
