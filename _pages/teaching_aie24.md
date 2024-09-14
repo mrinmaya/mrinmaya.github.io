@@ -54,11 +54,11 @@ ___
 |:--|:--|:--|:--|:--|
 |&nbsp;<b>Lecture</b>&nbsp;&nbsp;&nbsp;&nbsp;|<b>Date</b>|<b>Topic</b>|<b>Course Materials</b>|<b>Events</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |&nbsp;&nbsp;1|&nbsp;19.09.24&nbsp;|<b>Introduction</b>|||
-|&nbsp;&nbsp;2|&nbsp;03.10.24&nbsp;|<b>Classical EDM</b><br>(Learning Analytics and Algorithmic Bias in Education)|||
+|&nbsp;&nbsp;2|&nbsp;03.10.24&nbsp;|<b>Classical EDM</b><br>(Learning Analytics and Algorithmic Bia)|||
 |&nbsp;&nbsp;3|&nbsp;17.10.24&nbsp;|<b>Generative AI for Education - I</b>|||
 |&nbsp;&nbsp;4|&nbsp;31.10.24&nbsp;|<b>Generative AI for Education - II</b>|||
 |&nbsp;&nbsp;5|&nbsp;14.11.24&nbsp;|<b>Intelligent Tutoring Systems</b>|||
-|&nbsp;&nbsp;6|&nbsp;28.11.24&nbsp;|<b>Adaptivity and Personalization</b><br>(Learner Modeling, Knowledge Tracing)|||
+|&nbsp;&nbsp;6|&nbsp;28.11.24&nbsp;|<b>Adaptivity and Personalization</b><br>(Learner Modeling and Knowledge Tracing)|||
 |&nbsp;&nbsp;7|&nbsp;12.12.24&nbsp;|<b>Human-centred AIED</b><br>(Guest lecture)|||
 
 
