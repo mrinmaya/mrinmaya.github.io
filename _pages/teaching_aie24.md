@@ -58,7 +58,7 @@ ___
 |&nbsp;&nbsp;3|&nbsp;17.10.24&nbsp;|<b>Generative AI for Education - I</b>|||
 |&nbsp;&nbsp;4|&nbsp;31.10.24&nbsp;|<b>Generative AI for Education - II</b>|||
 |&nbsp;&nbsp;5|&nbsp;14.11.24&nbsp;|<b>Intelligent Tutoring Systems</b>|||
-|&nbsp;&nbsp;6|&nbsp;28.11.24&nbsp;|<b>Adaptivity and Personalization</b><br>(Learner Modeling and Knowledge Tracing)|||
+|&nbsp;&nbsp;6|&nbsp;28.11.24&nbsp;|<b>Adaptivity and Personalization</b><br>(Learner Modeling, Knowledge Tracing)|||
 |&nbsp;&nbsp;7|&nbsp;12.12.24&nbsp;|<b>Human-centred AIED</b><br>(Guest lecture)|||
 
 
