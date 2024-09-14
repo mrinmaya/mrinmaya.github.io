@@ -14,7 +14,7 @@ ___
 ## Course Description
 The course will be centered around analyzing educational data using AI methods and methodological and system-focused perspectives on designing AI systems for education.
 
-The course will start with an introduction to data mining techniques  (e.g., prediction, structure discovery, visualization, and relationship mining) relevant to analyzing educational data. We will then continue with topics on personalization in AI in educational technologies (e.g., learner modeling and knowledge tracing, self-improving AIED systems) while showcasing example applications in areas such as content curation, automatic assessment and dialog-based tutoring. Finally, we will cover ethical challenges associated with using AI in student facing settings.
+The course will start with an introduction to data mining techniques  (e.g., prediction, structure discovery, visualization, and relationship mining) relevant to analyzing educational data. We will then continue with topics on Large Language Models in Education and personalization in AI in educational technologies (e.g., learner modeling and knowledge tracing, self-improving AIED systems) while showcasing example applications in areas such as content curation, automatic assessment and dialog-based tutoring. We will also touch upon ethical challenges associated with using AI in student facing settings.
 
 Face-to-face meetings will be held every fortnight, although students will be expected to work individually on weekly tasks (e.g., discussing relevant literature, working on problems, preparing seminar presentations).
 
@@ -28,12 +28,12 @@ ___
 This is a research driven, hands-on class. Your participation is important.
 
 The final assessment will be a combination of: 
-- 60% - One take-home assignment;
-- 40% - Paper presentation in class OR a critique of a paper discussed in class;
+- 60% - Take-home assignment(s);
+- 40% - Paper presentation;
 
 No written exams! Our focus is on learning and continuous evaluation.
 
-<!-- classroom participation, graded exercises, research paper presentation and the project. There will be 3 exercise sets which will be a mix of theoretical and implementation problems. Exercises will be released roughly every 4 weeks, and will total to 40% of your grade. Classroom participation (writing class presentation summaries and discussion forum participation) will account for 20% of the grade. Research paper presentation will account for 10% of the grade and the project will account of the rest of the grade (30%). There will be no written exams. -->
+<!-- classroom participation, graded exercises, research paper presentation and the project. There will be exercise sets which will be a mix of theoretical and implementation problems. Exercises will be released roughly every 4 weeks, and will total to 40% of your grade. Classroom participation (writing class presentation summaries and discussion forum participation) will account for 20% of the grade. Research paper presentation will account for 10% of the grade and the project will account of the rest of the grade (30%). There will be no written exams. -->
 
 **Lectures:** Thu 13:15-15:00 (ML F38)
 
@@ -45,7 +45,7 @@ No written exams! Our focus is on learning and continuous evaluation.
 No textbook is required, but there will be regularly assigned readings from research literature, linked to the course website.
 
 **Prerequisites/Notice:**
-There are no prerequisites for this class. However, it will help if the student has taken an undergraduate or graduate level class in statistics, data science or machine learning. This class is appropriate for advanced undergraduates and master students in Computer Science as well as PhD students in other departments.
+There are no formal prerequisites for this class. However, it will help if the student has taken an undergraduate or graduate level class in statistics, data science or machine learning. This class is appropriate for advanced undergraduates and master students in Computer Science as well as PhD students in other departments.
 
 ___
 
@@ -54,12 +54,12 @@ ___
 |:--|:--|:--|:--|:--|
 |&nbsp;<b>Lecture</b>&nbsp;&nbsp;&nbsp;&nbsp;|<b>Date</b>|<b>Topic</b>|<b>Course Materials</b>|<b>Events</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |&nbsp;&nbsp;1|&nbsp;19.09.24&nbsp;|<b>Introduction</b>|||
-|&nbsp;&nbsp;2|&nbsp;03.10.24&nbsp;|<b>Classical EDM</b><br>(Supervised and Unsupervised Learning for Learning Analytics)|||
-|&nbsp;&nbsp;3|&nbsp;17.10.24&nbsp;|<b>Generative AI for Education</b><br>(LLMs + applications and opportunities)|||
-|&nbsp;&nbsp;4|&nbsp;31.10.24&nbsp;|<b>Content Generation for Education</b>|||
+|&nbsp;&nbsp;2|&nbsp;03.10.24&nbsp;|<b>Classical EDM</b><br>(Learning Analytics and Algorithmic Bias in Education)|||
+|&nbsp;&nbsp;3|&nbsp;17.10.24&nbsp;|<b>Generative AI for Education - I</b>|||
+|&nbsp;&nbsp;4|&nbsp;31.10.24&nbsp;|<b>Generative AI for Education - II</b>|||
 |&nbsp;&nbsp;5|&nbsp;14.11.24&nbsp;|<b>Intelligent Tutoring Systems</b>|||
 |&nbsp;&nbsp;6|&nbsp;28.11.24&nbsp;|<b>Adaptivity and Personalization</b><br>(Learner Modeling, Knowledge Tracing)|||
-|&nbsp;&nbsp;7|&nbsp;12.12.24&nbsp;|<b>Human aspects of AIED</b><br>(Guest lecture)|||
+|&nbsp;&nbsp;7|&nbsp;12.12.24&nbsp;|<b>Human-centred AIED</b><br>(Guest lecture)|||
 
 
 [//]: # ()
