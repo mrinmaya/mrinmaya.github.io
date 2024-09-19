@@ -41,7 +41,7 @@ No written exams! Our focus is on learning and continuous evaluation.
 
 **Exercise Sessions:**  Thu 15:15-16:00 (ML F38)
 
-**Discussion forum:**  [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=23746)) 
+**Discussion forum:**  ([Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=23746)) 
 
 **Literature:**
 No textbook is required, but there will be regularly assigned readings from research literature, linked to the course website.
