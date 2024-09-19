@@ -29,7 +29,9 @@ This is a research driven, hands-on class. Your participation is important.
 
 The final assessment will be a combination of: 
 - 60% - Take-home assignment(s);
-- 40% - Paper presentation;
+- 20% - Paper presentation;
+- 20% - answers to the 10 research paper questions;
+- 2% - potential bonus for class participation.
 
 No written exams! Our focus is on learning and continuous evaluation.
 
