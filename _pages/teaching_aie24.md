@@ -99,7 +99,7 @@ ___
 -   [Lecture Slides & Student Presentation Slides (Moodle)](https://moodle-app2.let.ethz.ch/)
 
 -   [Assignments (Moodle)](https://moodle-app2.let.ethz.ch/)
-___
+
 
 ## Contact
 
@@ -107,6 +107,6 @@ You can ask questions on [Moodle](https://moodle-app2.let.ethz.ch/mod/forum/view
 
 |:--|:--|
 |Lecturers| [Mrinmaya Sachan](http://www.mrinmaya.io/)|
-|Teaching Assistants| [Kumar Shridhar](mailto:shridhar.kumar@inf.ethz.ch),&nbsp; [Jakub Macina](mailto:jakub.macina@inf.ethz.ch),&nbsp; [Sankalan Pal Chowdhury](sankalan.palchowdhury@inf.ethz.ch),&nbsp; [Peng Cui](mailto:pencui@inf.ethz.ch)|
+|Teaching Assistants| [Kumar Shridhar](mailto:shridhar.kumar@inf.ethz.ch),&nbsp; [Jakub Macina](mailto:jakub.macina@inf.ethz.ch),&nbsp; [Sankalan Pal Chowdhury](mailto:sankalan.palchowdhury@inf.ethz.ch),&nbsp; [Peng Cui](mailto:pencui@inf.ethz.ch)|
 
 ___
